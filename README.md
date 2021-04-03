@@ -9,7 +9,8 @@
 * [找对书籍和阅读方式，你也能轻松「入坑」英文原著](https://sspai.com/post/58325)
 
 # 写作
- 
+* [新东方英语写作](http://yingyu.xdf.cn/xz/)
+* [中考英语作文万能句，考场100%用的上！（含开头+中间+结尾句）](http://yingyu.xdf.cn/201806/10792720_3.html)
 * [很多写作阅读的书](https://www.tianfateng.cn/)
 * [句子大全](http://www.1juzi.com/new/45638.html)
 * [英语作文万能句子大全](http://xiaoxue.xdf.cn/201412/10175458.html)
