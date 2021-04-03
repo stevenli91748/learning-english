@@ -3,7 +3,8 @@
 # 听力
 
 * [怎么在一个月内让英语听力有明显的提高？](https://www.zhihu.com/question/24706380/answer/387403508?utm_source=wechat_session&utm_medium=social&utm_oi=1119162453489045504)
-
+* [10部适合学英语的美剧 ](https://www.sohu.com/a/238355321_695006)
+* 
 # 阅读
 
 * [找对书籍和阅读方式，你也能轻松「入坑」英文原著](https://sspai.com/post/58325)
