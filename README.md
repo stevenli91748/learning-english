@@ -24,6 +24,10 @@
 * [英语六级考试100个形近词](http://yingyu.xdf.cn/201912/11002738.html)
 * [初中英语考试必考：50组重点词语辨析](http://yingyu.xdf.cn/201910/10985549.html)
 * [初中英语最常考的200组同义词/词组辨析](http://yingyu.xdf.cn/201909/10981829.html)
+* [初中英语重点同义词、反义词全汇总！](http://yingyu.xdf.cn/201909/10982627_3.html)
+* [初一到初三，489个重点词组，全在这了](http://yingyu.xdf.cn/201905/10910211.html)
+* [背会这200条必考的初中英语固定搭配](http://yingyu.xdf.cn/201905/10907453_10.html)
+* 
 # 有用的参考
 
  * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
