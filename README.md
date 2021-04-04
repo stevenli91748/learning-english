@@ -23,6 +23,7 @@
 * [初中英语九年级全册重点短语和句型总结](http://yingyu.xdf.cn/202003/11039460.html)
 * [英语六级考试100个形近词](http://yingyu.xdf.cn/201912/11002738.html)
 * [初中英语考试必考：50组重点词语辨析](http://yingyu.xdf.cn/201910/10985549.html)
+* [初中英语最常考的200组同义词/词组辨析](http://yingyu.xdf.cn/201909/10981829.html)
 # 有用的参考
 
  * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
