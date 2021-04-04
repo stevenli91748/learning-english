@@ -21,6 +21,8 @@
 * [2020中考英语一轮复习必背重点短语/句型大全](http://yingyu.xdf.cn/202002/11032614.html)
 * [一张表记完初中英语必考338条核心短语](http://yingyu.xdf.cn/202002/11032838.html)
 * [初中英语九年级全册重点短语和句型总结](http://yingyu.xdf.cn/202003/11039460.html)
+* [英语六级考试100个形近词](http://yingyu.xdf.cn/201912/11002738.html)
+* [初中英语考试必考：50组重点词语辨析](http://yingyu.xdf.cn/201910/10985549.html)
 # 有用的参考
 
  * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
