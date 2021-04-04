@@ -15,7 +15,7 @@
 * [很多写作阅读的书](https://www.tianfateng.cn/)
 * [句子大全](http://www.1juzi.com/new/45638.html)
 * [英语作文万能句子大全](http://xiaoxue.xdf.cn/201412/10175458.html)
-
+* [初中英语短语整理：93个“be+...”短语分类汇总](http://yingyu.xdf.cn/202004/11053189_2.html)
 
 
 # 有用的参考
