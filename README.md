@@ -3,7 +3,7 @@
 
 # 在线书籍
 * [英语词汇速记大全--新东方](https://weread.qq.com/web/reader/55232430715bb6ec5529f2d)
-
+* [英语句型](https://weread.qq.com/web/reader/c7432b6071593456c740800)
 
 # computer english
 * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
