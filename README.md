@@ -21,6 +21,10 @@
 * [找对书籍和阅读方式，你也能轻松「入坑」英文原著](https://sspai.com/post/58325)
 
 # 写作
+* [初中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/38732d60721821e73874132)
+* [高中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/0eb325b0721821e50eb0ead)
+* [286个英语句型](https://weread.qq.com/web/reader/e4532cb05e19e8e4524a00a)
+* [六级必用500句](https://weread.qq.com/web/reader/800323e07158c8e0800fd55ka87322c014a87ff679a21ea)
 * [新东方英语写作](http://yingyu.xdf.cn/xz/)
 * [中考英语作文万能句，考场100%用的上！（含开头+中间+结尾句）](http://yingyu.xdf.cn/201806/10792720_3.html)
 * [很多写作阅读的书](https://www.tianfateng.cn/)
