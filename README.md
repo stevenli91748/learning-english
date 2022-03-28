@@ -2,12 +2,14 @@
 
 
 # 在线书籍
-* [英语词汇速记大全--新东方](https://weread.qq.com/web/reader/55232430715bb6ec5529f2d)
-* [英语句型](https://weread.qq.com/web/reader/c7432b6071593456c740800)
+
+# 学习路径
 * [英语就这样学](https://weread.qq.com/web/reader/b2932e507197bd0eb29f59a)
+
+# 词汇
+* [英语词汇速记大全--新东方](https://weread.qq.com/web/reader/55232430715bb6ec5529f2d)
 * [英语单词前缀详解](https://weread.qq.com/web/reader/ce232210715ea90ace20348)
 * [英语单词词根详解](https://weread.qq.com/web/reader/8b932e407159fa658b9a668kc81322c012c81e728d9d180)
-
 
 # computer english
 * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
@@ -28,6 +30,8 @@
 
 
 # 写作
+
+* [英语句型](https://weread.qq.com/web/reader/c7432b6071593456c740800)
 * [英语短语3000例](https://weread.qq.com/web/reader/69032a5072181e8d6906b0fkc81322c012c81e728d9d180)
 * [初中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/38732d60721821e73874132)
 * [高中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/0eb325b0721821e50eb0ead)
