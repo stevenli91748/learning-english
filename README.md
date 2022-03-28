@@ -5,7 +5,7 @@
 * [英语词汇速记大全--新东方](https://weread.qq.com/web/reader/55232430715bb6ec5529f2d)
 * [英语句型](https://weread.qq.com/web/reader/c7432b6071593456c740800)
 * [英语就这样学](https://weread.qq.com/web/reader/b2932e507197bd0eb29f59a)
-
+* [英语单词前缀详解](https://weread.qq.com/web/reader/ce232210715ea90ace20348)
 
 
 # computer english
@@ -17,7 +17,7 @@
 * [10部适合学英语的美剧 ](https://www.sohu.com/a/238355321_695006)
 * 
 # 阅读
-
+* [美文100篇--新东方](https://weread.qq.com/web/reader/3c432a60715aae6b3c4cdea)
 * [找对书籍和阅读方式，你也能轻松「入坑」英文原著](https://sspai.com/post/58325)
 
 # 写作
