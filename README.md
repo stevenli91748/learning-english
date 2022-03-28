@@ -23,6 +23,8 @@
 # 阅读
 * [美文100篇--新东方](https://weread.qq.com/web/reader/3c432a60715aae6b3c4cdea)
 * [找对书籍和阅读方式，你也能轻松「入坑」英文原著](https://sspai.com/post/58325)
+* [英语阅读基本功长难句分析](https://weread.qq.com/web/reader/a2a328107192ce6fa2a414c)
+
 
 # 写作
 * [初中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/38732d60721821e73874132)
