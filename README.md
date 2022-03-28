@@ -28,6 +28,7 @@
 
 
 # 写作
+* [英语短语3000例](https://weread.qq.com/web/reader/69032a5072181e8d6906b0fkc81322c012c81e728d9d180)
 * [初中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/38732d60721821e73874132)
 * [高中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/0eb325b0721821e50eb0ead)
 * [286个英语句型](https://weread.qq.com/web/reader/e4532cb05e19e8e4524a00a)
