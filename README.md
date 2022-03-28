@@ -6,6 +6,7 @@
 * [英语句型](https://weread.qq.com/web/reader/c7432b6071593456c740800)
 * [英语就这样学](https://weread.qq.com/web/reader/b2932e507197bd0eb29f59a)
 * [英语单词前缀详解](https://weread.qq.com/web/reader/ce232210715ea90ace20348)
+* [英语单词词根详解](https://weread.qq.com/web/reader/8b932e407159fa658b9a668kc81322c012c81e728d9d180)
 
 
 # computer english
