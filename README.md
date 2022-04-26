@@ -30,7 +30,7 @@
 * [英语阅读技巧大全：句子分析](https://weread.qq.com/web/reader/1603200071defc20160f3e8kc81322c012c81e728d9d180)
 
 # 写作
-
+* [托福难句500例精讲分析](https://weread.qq.com/web/reader/fc332cc0715ce95ffc33bfbkc81322c012c81e728d9d180)
 * [英语句型](https://weread.qq.com/web/reader/c7432b6071593456c740800)
 * [英语短语3000例](https://weread.qq.com/web/reader/69032a5072181e8d6906b0fkc81322c012c81e728d9d180)
 * [初中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/38732d60721821e73874132)
