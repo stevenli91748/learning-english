@@ -68,7 +68,7 @@
 * [背会这200条必考的初中英语固定搭配](http://yingyu.xdf.cn/201905/10907453_10.html)
 * 
 # 有用的参考
-
+ * [一句ChatGPT Prompt提示语 让给ChatGPT变身英语口语老师 ChatGPT Prompts魔法咒语大集合](https://www.youtube.com/watch?v=Ut6Sx6Z_dxo)
  * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
  * [如何正确使用《新概念英语》（New Concept English）提高英语水平](https://www.zhihu.com/question/20977466/answer/614335814?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 
