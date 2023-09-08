@@ -15,7 +15,8 @@
     * [Learn English With TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries)
   * [Speak English With Vanessa---很多俚语](https://www.youtube.com/@SpeakEnglishWithVanessa)
   * [learn english with bob the canadian](https://www.youtube.com/@LearnEnglishwithBobtheCanadian)
-
+  * 写作
+    * [eng vid---系统化，体系化学习平台](https://www.youtube.com/@EngVid) 
 
 # 词汇
 * [英语词汇速记大全--新东方](https://weread.qq.com/web/reader/55232430715bb6ec5529f2d)
