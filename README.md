@@ -5,6 +5,17 @@
 
 # 学习路径
 * [英语就这样学](https://weread.qq.com/web/reader/b2932e507197bd0eb29f59a)
+* [youtube 5大学习频道](https://www.youtube.com/watch?v=KRPaYW5KEO8)
+  * 发音和听力起飞 
+    * [rachel's english---发音和听力起飞](https://www.youtube.com/@rachelsenglish)
+    * [sound american---发音和听力起飞](https://www.youtube.com/@SoundsAmerican)
+  * 单词
+    * [EnglishClass101](https://www.youtube.com/@EnglishClass101)
+  * 电影学单词
+    * [Learn English With TV Series](https://www.youtube.com/@LearnEnglishWithTVSeries)
+  * [Speak English With Vanessa---很多俚语](https://www.youtube.com/@SpeakEnglishWithVanessa)
+  * [learn english with bob the canadian](https://www.youtube.com/@LearnEnglishwithBobtheCanadian)
+
 
 # 词汇
 * [英语词汇速记大全--新东方](https://weread.qq.com/web/reader/55232430715bb6ec5529f2d)
