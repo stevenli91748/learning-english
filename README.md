@@ -4,6 +4,7 @@
 # 在线书籍
 
 # 学习路径
+* [我用OpenAI ChatGPT翻译整个网页 翻译质量接近人工翻译 中英文对照翻译显示 ChatGPT沉浸式翻译 让我的英语水平突飞猛进 用ChatGPT看世界各地外文新闻杂志获取第一手的最新可靠资讯](https://www.youtube.com/watch?v=iTgqmhhFyyI)
 * [英语就这样学](https://weread.qq.com/web/reader/b2932e507197bd0eb29f59a)
 * [youtube 5大学习频道](https://www.youtube.com/watch?v=KRPaYW5KEO8)
   * 发音和听力起飞 
