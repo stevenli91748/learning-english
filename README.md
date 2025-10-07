@@ -25,7 +25,11 @@
 * [英语词汇速记大全--新东方](https://weread.qq.com/web/reader/55232430715bb6ec5529f2d)
 * [英语单词前缀详解](https://weread.qq.com/web/reader/ce232210715ea90ace20348)
 * [英语单词词根详解](https://weread.qq.com/web/reader/8b932e407159fa658b9a668kc81322c012c81e728d9d180)
-
+* 英语词组
+  * [英语词组全书（全集）](https://weread.qq.com/web/reader/72532490715aae157252b1fkc81322c012c81e728d9d180) 
+* 短语
+  * []()
+  * [])() 
 # computer english
 * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
 
@@ -45,30 +49,47 @@
 * [英语阅读技巧大全：句子分析](https://weread.qq.com/web/reader/1603200071defc20160f3e8kc81322c012c81e728d9d180)
 
 # 写作
-* [托福难句500例精讲分析](https://weread.qq.com/web/reader/fc332cc0715ce95ffc33bfbkc81322c012c81e728d9d180)
-* [英语句型](https://weread.qq.com/web/reader/c7432b6071593456c740800)
-* [英语短语3000例](https://weread.qq.com/web/reader/69032a5072181e8d6906b0fkc81322c012c81e728d9d180)
-* [初中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/38732d60721821e73874132)
-* [高中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/0eb325b0721821e50eb0ead)
-* [286个英语句型](https://weread.qq.com/web/reader/e4532cb05e19e8e4524a00a)
-* [六级必用500句](https://weread.qq.com/web/reader/800323e07158c8e0800fd55ka87322c014a87ff679a21ea)
 * [新东方英语写作](http://yingyu.xdf.cn/xz/)
-* [中考英语作文万能句，考场100%用的上！（含开头+中间+结尾句）](http://yingyu.xdf.cn/201806/10792720_3.html)
 * [很多写作阅读的书](https://www.tianfateng.cn/)
-* [句子大全](http://www.1juzi.com/new/45638.html)
-* [英语作文万能句子大全](http://xiaoxue.xdf.cn/201412/10175458.html)
-* [初中英语短语整理：93个“be+...”短语分类汇总](http://yingyu.xdf.cn/202004/11053189_2.html)
-* [高中英语必修1-选修8常考的526个短语及经典例句汇总](http://yingyu.xdf.cn/202003/11047109.html)
-* [专四专八考试必备：235个重点短语搭配](http://yingyu.xdf.cn/202003/11044775.html)
-* [2020中考英语一轮复习必背重点短语/句型大全](http://yingyu.xdf.cn/202002/11032614.html)
-* [一张表记完初中英语必考338条核心短语](http://yingyu.xdf.cn/202002/11032838.html)
-* [初中英语九年级全册重点短语和句型总结](http://yingyu.xdf.cn/202003/11039460.html)
-* [英语六级考试100个形近词](http://yingyu.xdf.cn/201912/11002738.html)
-* [初中英语考试必考：50组重点词语辨析](http://yingyu.xdf.cn/201910/10985549.html)
-* [初中英语最常考的200组同义词/词组辨析](http://yingyu.xdf.cn/201909/10981829.html)
-* [初中英语重点同义词、反义词全汇总！](http://yingyu.xdf.cn/201909/10982627_3.html)
-* [初一到初三，489个重点词组，全在这了](http://yingyu.xdf.cn/201905/10910211.html)
-* [背会这200条必考的初中英语固定搭配](http://yingyu.xdf.cn/201905/10907453_10.html)
+
+* 词汇
+  * [英语词汇速记大全--新东方](https://weread.qq.com/web/reader/55232430715bb6ec5529f2d)
+  * [英语单词前缀详解](https://weread.qq.com/web/reader/ce232210715ea90ace20348)
+  * [英语单词词根详解](https://weread.qq.com/web/reader/8b932e407159fa658b9a668kc81322c012c81e728d9d180)
+  * 形近词
+    * [英语六级考试100个形近词](http://yingyu.xdf.cn/201912/11002738.html)
+  * 同义词/反义词
+    * [初中英语最常考的200组同义词/词组辨析](http://yingyu.xdf.cn/201909/10981829.html)
+    * [初中英语重点同义词、反义词全汇总！](http://yingyu.xdf.cn/201909/10982627_3.html)
+
+* 英语词组
+  * [英语词组全书（全集）](https://weread.qq.com/web/reader/72532490715aae157252b1fkc81322c012c81e728d9d180) 
+  * [初中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/38732d60721821e73874132)
+  * [高中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/0eb325b0721821e50eb0ead)
+
+
+* 难句精讲分析
+  * [托福难句500例精讲分析](https://weread.qq.com/web/reader/fc332cc0715ce95ffc33bfbkc81322c012c81e728d9d180)
+* 英语句型
+  * [英语句型](https://weread.qq.com/web/reader/c7432b6071593456c740800)
+  * [286个英语句型](https://weread.qq.com/web/reader/e4532cb05e19e8e4524a00a)
+  * [六级必用500句](https://weread.qq.com/web/reader/800323e07158c8e0800fd55ka87322c014a87ff679a21ea)
+  * [中考英语作文万能句，考场100%用的上！（含开头+中间+结尾句）](http://yingyu.xdf.cn/201806/10792720_3.html)
+  * [句子大全](http://www.1juzi.com/new/45638.html)
+  * [英语作文万能句子大全](http://xiaoxue.xdf.cn/201412/10175458.html)
+
+
+* 英语短语
+  * [英语短语3000例](https://weread.qq.com/web/reader/69032a5072181e8d6906b0fkc81322c012c81e728d9d180)
+  * [初中英语短语整理：93个“be+...”短语分类汇总](http://yingyu.xdf.cn/202004/11053189_2.html)
+  * [高中英语必修1-选修8常考的526个短语及经典例句汇总](http://yingyu.xdf.cn/202003/11047109.html)
+  * [专四专八考试必备：235个重点短语搭配](http://yingyu.xdf.cn/202003/11044775.html)
+  * [2020中考英语一轮复习必背重点短语/句型大全](http://yingyu.xdf.cn/202002/11032614.html)
+  * [一张表记完初中英语必考338条核心短语](http://yingyu.xdf.cn/202002/11032838.html)
+  * [初中英语九年级全册重点短语和句型总结](http://yingyu.xdf.cn/202003/11039460.html)
+  * [初中英语考试必考：50组重点词语辨析](http://yingyu.xdf.cn/201910/10985549.html)
+  * [初一到初三，489个重点词组，全在这了](http://yingyu.xdf.cn/201905/10910211.html)
+  * [背会这200条必考的初中英语固定搭配](http://yingyu.xdf.cn/201905/10907453_10.html)
 * 
 # 有用的参考
  * [一句ChatGPT Prompt提示语 让给ChatGPT变身英语口语老师 ChatGPT Prompts魔法咒语大集合](https://www.youtube.com/watch?v=Ut6Sx6Z_dxo)
