@@ -21,15 +21,7 @@
   * 写作
     * [eng vid---系统化，体系化学习平台](https://www.youtube.com/@EngVid) 
 
-# 词汇
-* [英语词汇速记大全--新东方](https://weread.qq.com/web/reader/55232430715bb6ec5529f2d)
-* [英语单词前缀详解](https://weread.qq.com/web/reader/ce232210715ea90ace20348)
-* [英语单词词根详解](https://weread.qq.com/web/reader/8b932e407159fa658b9a668kc81322c012c81e728d9d180)
-* 英语词组
-  * [英语词组全书（全集）](https://weread.qq.com/web/reader/72532490715aae157252b1fkc81322c012c81e728d9d180) 
-* 短语
-  * []()
-  * [])() 
+
 # computer english
 * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
 
