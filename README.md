@@ -37,6 +37,8 @@
 # 阅读
 * [精读笔记应该怎么做](https://weread.qq.com/web/reader/86d32010813ab8187g013e18kc51323901dc51ce410c121b)
 * [ 英语阅读必备工具：词典](https://weread.qq.com/web/reader/86d32010813ab8187g013e18k9bf32f301f9bf31c7ff0a60)
+  * ESL(English as a Second Language)词典 
+    * [朗文当代英语词典》](https://www.ldoceonline.com/) 
 
  
 * [美文100篇--新东方](https://weread.qq.com/web/reader/3c432a60715aae6b3c4cdea)
