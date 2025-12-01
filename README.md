@@ -52,6 +52,13 @@
 * [很多写作阅读的书](https://www.tianfateng.cn/)
 
 * 词汇
+  * 单词词汇 
+    * [当代英语核心词汇：初级3000词（当代英语核心词汇）](https://weread.qq.com/web/reader/fb232de0813ab69c1g010aa6)
+    * [当代英语核心词汇：中级4000词（当代英语核心词汇](https://weread.qq.com/web/reader/d4f32f30813ab69f4g016388)
+    * [当代英语核心词汇：中高级4000词（当代英语核心词汇](https://weread.qq.com/web/reader/3b1320c0813ab69c2g010b92)
+    * [当代英语核心词汇：高级6000词（当代英语核心词汇](https://weread.qq.com/web/reader/00732f70813ab69c1g019314)
+    * []()
+    * []()
   * [英语词汇速记大全--新东方](https://weread.qq.com/web/reader/55232430715bb6ec5529f2d)
   * [英语单词前缀详解](https://weread.qq.com/web/reader/ce232210715ea90ace20348)
   * [英语单词词根详解](https://weread.qq.com/web/reader/8b932e407159fa658b9a668kc81322c012c81e728d9d180)
