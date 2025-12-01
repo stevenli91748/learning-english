@@ -35,6 +35,8 @@
 * [10部适合学英语的美剧 ](https://www.sohu.com/a/238355321_695006)
 * 
 # 阅读
+* [精读笔记应该怎么做](https://weread.qq.com/web/reader/86d32010813ab8187g013e18kc51323901dc51ce410c121b)
+
 * [美文100篇--新东方](https://weread.qq.com/web/reader/3c432a60715aae6b3c4cdea)
 * [找对书籍和阅读方式，你也能轻松「入坑」英文原著](https://sspai.com/post/58325)
 * [英语阅读基本功长难句分析](https://weread.qq.com/web/reader/a2a328107192ce6fa2a414c)
