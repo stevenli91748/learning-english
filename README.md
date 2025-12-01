@@ -41,6 +41,7 @@
   * ESL(English as a Second Language)词典 
     * [朗文当代英语词典》](https://www.ldoceonline.com/) 
 * [纽约时报](https://www.nytimes.com/)
+* [洛杉磯時報](https://www.latimes.com/)
 * [华尔街日报](https://www.wsj.com/?_gl=1*4yc60f*_gcl_au*NTQ2NzE0MDc1LjE3NjQ2MzE2MzU.*_ga*MTczMDI2MjE2OC4xNzY0NjMxNjM1*_ga_K2H7B9JRSS*czE3NjQ2MzE2MzUkbzEkZzEkdDE3NjQ2MzE4MTYkajIkbDAkaDM1Njc0NzIxNw..)
 * [金融时报](https://www.ft.com/?_gl=1*h4x9m0*_ga*MTczMTE0NTUyNC4xNzY0NjMxOTAz*_ga_2MCQJHGE8J*czE3NjQ2MzE5MDMkbzEkZzAkdDE3NjQ2MzE5MDYkajU3JGwwJGgw)
  
