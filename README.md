@@ -54,7 +54,7 @@
 * [2025 精选：5个超实用英语作文网站推荐](https://www.wukongsch.com/blog/zh/english-composition-website-post-29948/)
 * [新东方英语写作](http://yingyu.xdf.cn/xz/)
 * [很多写作阅读的书](https://www.tianfateng.cn/)
-
+* [六個階段的練習，寫出漂亮的英文句子](https://barshai.org/thoughts/how-to-practice-writing-english-sentences/)
 * 词汇
   * 单词词汇 
     * [当代英语核心词汇：初级3000词（当代英语核心词汇）](https://weread.qq.com/web/reader/fb232de0813ab69c1g010aa6)
