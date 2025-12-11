@@ -39,7 +39,7 @@
   * [Planet Money](https://www.npr.org/sections/money/) 
   * [TED Radio Hour](https://www.npr.org/programs/ted-radio-hour/)
 * [6 Minute English 中级学习者](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english)
-* [This American Life 难度比较高的听力材料](https://www.thisamericanlife.org/)
+* [This American Life 难度比较高的听力材料,提供了音频的完整文本](https://www.thisamericanlife.org/)
 * []()
 
 # 阅读
