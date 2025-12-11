@@ -36,6 +36,12 @@
 * [CNN 10 ---难度低 CNN 10是CNN面向美国中学生的一档新闻节目，它涉及的内容从时事政治到生活琐事都有，包罗万象，语速和词汇量也适中，非常适合中级学习者用于提高听力水平](https://www.cnn10.com/)
 * [60-Second Science 难度中,可以作为科技类新闻的精听材料](https://thinktv.pbslearningmedia.org/)
 * [NPR（National Public Radio，美国国家公共广播电台） News](https://www.npr.org/programs/fresh-air/)
+  * [Planet Money](https://www.npr.org/sections/money/) 
+  * [TED Radio Hour](https://www.npr.org/programs/ted-radio-hour/)
+* [6 Minute English 中级学习者](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english)
+* [This American Life 难度比较高的听力材料](https://www.thisamericanlife.org/)
+* []()
+
 # 阅读
 * [精读笔记应该怎么做](https://weread.qq.com/web/reader/86d32010813ab8187g013e18kc51323901dc51ce410c121b)
 * [中国日报英文版](https://www.chinadaily.com.cn/)
