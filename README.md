@@ -29,6 +29,11 @@
 # 语法
 * [张道真英语语法](https://weread.qq.com/web/reader/c4132da071a12fabc411070)
 
+
+# 口语
+* [日常生活场景相关的英语口语材料---wikihow是世界上最大的“how-to”指南网站之一。你可以在网站上看到大量教你“怎么做某事”的文章，比如“how to wash amotorcycle”​“how to become a dentist”​“how to playbasketball”​“how to fish”等等。目前网站上有超过5.6万篇文章，几乎涵盖了所有你能想到的主题。而且更重要的一点是，这些文章绝大多数都是用英文写的，用词和句式都非常简单自然，是非常理想的学习日常生活表达的材料。我们可以用wikihow来准备口语话题。](https://www.wikihow.com/Main-Page)
+* [procon.org是一个非营利性质的公益网站，其成立目标是通过提供对常见争议话题的多方面观点，培养大众的批判性思维，让大众对争议性事件有更加清晰的认识](www.procon.org) 
+
 # 听力
 
 * [怎么在一个月内让英语听力有明显的提高？](https://www.zhihu.com/question/24706380/answer/387403508?utm_source=wechat_session&utm_medium=social&utm_oi=1119162453489045504)
