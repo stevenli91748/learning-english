@@ -1,7 +1,7 @@
 # learning-english
 
-[英语写作语法和拼写检查神器---Grammarly](https://www.grammarly.com/)|[英语句子用例搜索引擎](https://ludwig.guru/)|
----|---|
+[英语写作语法和拼写检查神器---Grammarly](https://www.grammarly.com/)|[英语句子用例搜索引擎](https://ludwig.guru/)|[批改网  id： gzpengli psw: gz19731108](https://www.pigai.org/index.php?c=write&f2=login)|
+---|---|---|
 
 # 在线书籍
 
