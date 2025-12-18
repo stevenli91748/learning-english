@@ -3,8 +3,8 @@
 [英语写作语法和拼写检查神器---Grammarly](https://www.grammarly.com/)|[英语句子用例搜索引擎](https://ludwig.guru/)|[批改网  id： gzpengli psw: gz19731108](https://www.pigai.org/index.php?c=write&f2=login)|
 ---|---|---|
 
-[有道写作批改](https://write.youdao.com/#/home)|
----|
+[有道写作批改](https://write.youdao.com/#/home)|[6個超強免費AI英文寫作批改網站推薦](https://clairesenglish.com/ai-writing/)|
+---|---|
 
 
 # 在线书籍
