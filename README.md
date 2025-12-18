@@ -68,6 +68,7 @@
 * [英语阅读技巧大全：句子分析](https://weread.qq.com/web/reader/1603200071defc20160f3e8kc81322c012c81e728d9d180)
 
 # 写作
+* [ 几本对写作有帮助的工具书](https://weread.qq.com/web/reader/86d32010813ab8187g013e18k72b327f023972b32a1f7e2d)
 * [2025 精选：5个超实用英语作文网站推荐](https://www.wukongsch.com/blog/zh/english-composition-website-post-29948/)
 * [新东方英语写作](http://yingyu.xdf.cn/xz/)
 * [很多写作阅读的书](https://www.tianfateng.cn/)
