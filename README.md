@@ -49,6 +49,7 @@
 * [社交英语口语，看这本就够（第2版）](https://weread.qq.com/web/reader/6a832ae07159fa3b6a8c477)
 * [说出美国人的每一天：英语会话8000句](https://weread.qq.com/web/reader/c6c326505e1a34c6c40bf73)
 * [我的第一本英语口语书](https://weread.qq.com/web/reader/64c327105c909164c6b7cf9kc81322c012c81e728d9d180)
+* [英语口语入门句型300](https://weread.qq.com/web/reader/1063217071860060106dfd3kc81322c012c81e728d9d180)
 # 听力
 
 * [怎么在一个月内让英语听力有明显的提高？](https://www.zhihu.com/question/24706380/answer/387403508?utm_source=wechat_session&utm_medium=social&utm_oi=1119162453489045504)
