@@ -228,7 +228,9 @@
   * 舌尖上的英语
     * [舌尖上的英语（第2版）](https://weread.qq.com/web/reader/1ed32930718600541edece4)
   * 机械工程
-    * [机械工程](https://weread.qq.com/web/reader/acb325c05a0029acbee64ce) 
+    * [机械工程](https://weread.qq.com/web/reader/acb325c05a0029acbee64ce)
+  * 旅游
+    * [旅游英语一本就Go](https://weread.qq.com/web/reader/eb832280715bb6e4eb824d2)  
 # 有用的参考
  * [一句ChatGPT Prompt提示语 让给ChatGPT变身英语口语老师 ChatGPT Prompts魔法咒语大集合](https://www.youtube.com/watch?v=Ut6Sx6Z_dxo)
  * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
