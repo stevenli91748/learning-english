@@ -11,6 +11,7 @@
 
 # 学习路径
 * [英语高效学习法：听说读写全攻略---重要](https://weread.qq.com/web/reader/86d32010813ab8187g013e18kc81322c012c81e728d9d180)
+* [赖世雄的英语学习法](https://weread.qq.com/web/reader/726324107155aa127268843kc81322c012c81e728d9d180)
 * [我用OpenAI ChatGPT翻译整个网页 翻译质量接近人工翻译 中英文对照翻译显示 ChatGPT沉浸式翻译 让我的英语水平突飞猛进 用ChatGPT看世界各地外文新闻杂志获取第一手的最新可靠资讯](https://www.youtube.com/watch?v=iTgqmhhFyyI)
 * [英语就这样学](https://weread.qq.com/web/reader/b2932e507197bd0eb29f59a)
 * [youtube 5大学习频道](https://www.youtube.com/watch?v=KRPaYW5KEO8)
@@ -47,7 +48,7 @@
 
 * [社交英语口语，看这本就够（第2版）](https://weread.qq.com/web/reader/6a832ae07159fa3b6a8c477)
 * [说出美国人的每一天：英语会话8000句](https://weread.qq.com/web/reader/c6c326505e1a34c6c40bf73)
-
+* [我的第一本英语口语书](https://weread.qq.com/web/reader/64c327105c909164c6b7cf9kc81322c012c81e728d9d180)
 # 听力
 
 * [怎么在一个月内让英语听力有明显的提高？](https://www.zhihu.com/question/24706380/answer/387403508?utm_source=wechat_session&utm_medium=social&utm_oi=1119162453489045504)
@@ -62,6 +63,7 @@
 * []()
 
 # 阅读
+* [英语阅读技巧大全：用削枝剪叶法学英语阅读](https://weread.qq.com/web/reader/1603200071defc20160f3e8)
 * [精读笔记应该怎么做](https://weread.qq.com/web/reader/86d32010813ab8187g013e18kc51323901dc51ce410c121b)
 * [中国日报英文版](https://www.chinadaily.com.cn/)
 * [ 英语阅读必备工具：词典](https://weread.qq.com/web/reader/86d32010813ab8187g013e18k9bf32f301f9bf31c7ff0a60)
@@ -72,15 +74,16 @@
 * [华尔街日报](https://www.wsj.com/?_gl=1*4yc60f*_gcl_au*NTQ2NzE0MDc1LjE3NjQ2MzE2MzU.*_ga*MTczMDI2MjE2OC4xNzY0NjMxNjM1*_ga_K2H7B9JRSS*czE3NjQ2MzE2MzUkbzEkZzEkdDE3NjQ2MzE4MTYkajIkbDAkaDM1Njc0NzIxNw..)
 * [金融时报](https://www.ft.com/?_gl=1*h4x9m0*_ga*MTczMTE0NTUyNC4xNzY0NjMxOTAz*_ga_2MCQJHGE8J*czE3NjQ2MzE5MDMkbzEkZzAkdDE3NjQ2MzE5MDYkajU3JGwwJGgw)
  
-* [美文100篇--新东方](https://weread.qq.com/web/reader/3c432a60715aae6b3c4cdea)
-* [找对书籍和阅读方式，你也能轻松「入坑」英文原著](https://sspai.com/post/58325)
 
 * 难句精讲分析
   * [英语阅读基本功长难句分析](https://weread.qq.com/web/reader/a2a328107192ce6fa2a414c)
   * [英语阅读技巧大全：句子分析](https://weread.qq.com/web/reader/1603200071defc20160f3e8kc81322c012c81e728d9d180)
   * [托福难句500例精讲分析](https://weread.qq.com/web/reader/fc332cc0715ce95ffc33bfbkc81322c012c81e728d9d180)
-  * 
 
+* 美文阅读
+  * [美文100篇--新东方](https://weread.qq.com/web/reader/3c432a60715aae6b3c4cdea)
+  * [找对书籍和阅读方式，你也能轻松「入坑」英文原著](https://sspai.com/post/58325)
+  * [六级晨读美文100篇](https://weread.qq.com/web/reader/3c432a60715aae6b3c4cdeakc81322c012c81e728d9d180)
 
 # 写作
 * [ 几本对写作有帮助的工具书](https://weread.qq.com/web/reader/86d32010813ab8187g013e18k72b327f023972b32a1f7e2d)
@@ -91,6 +94,8 @@
 
 * [英语写作我不怕：与美国学生同步高效学写作](https://weread.qq.com/web/reader/a4632f7071f5e26ca46b99d)
 * [抄写英语的奇迹](https://weread.qq.com/web/reader/df232c10813aba06dg013880kc81322c012c81e728d9d180)
+* [英语专业八级写作特训](https://weread.qq.com/web/reader/63e32220715ce91b63e7f32kc81322c012c81e728d9d180)
+* [一学就会的实用英语六级写作模板](https://weread.qq.com/web/reader/b0a3264071649baeb0ad8d2)
 
 * 词汇
   * 单词词汇 
@@ -99,15 +104,25 @@
     * [当代英语核心词汇：中高级4000词（当代英语核心词汇](https://weread.qq.com/web/reader/3b1320c0813ab69c2g010b92)
     * [当代英语核心词汇：高级6000词（当代英语核心词汇](https://weread.qq.com/web/reader/00732f70813ab69c1g019314)
     * [考博英语词汇10000例精解](https://weread.qq.com/web/reader/38c3226071916d9e38ca279kc81322c012c81e728d9d180)
-    * []()
+    * [情景分类记忆18000英语单词](https://weread.qq.com/web/reader/287327f071c95ddb287d84bkc81322c012c81e728d9d180)
+    * [100个句子记完3500个高考单词 同步学练测](https://weread.qq.com/web/reader/92432c10813ab89f8g01222akc81322c012c81e728d9d180)
+
   * [英语词汇速记大全--新东方](https://weread.qq.com/web/reader/55232430715bb6ec5529f2d)
   * [英语单词前缀详解](https://weread.qq.com/web/reader/ce232210715ea90ace20348)
   * [英语单词词根详解](https://weread.qq.com/web/reader/8b932e407159fa658b9a668kc81322c012c81e728d9d180)
+
   * 形近词
     * [英语六级考试100个形近词](http://yingyu.xdf.cn/201912/11002738.html)
+
   * 同义词/反义词
     * [初中英语最常考的200组同义词/词组辨析](http://yingyu.xdf.cn/201909/10981829.html)
     * [初中英语重点同义词、反义词全汇总！](http://yingyu.xdf.cn/201909/10982627_3.html)
+    * [英语同义词的奥秘](https://weread.qq.com/web/reader/42432d605c62a2424f408c5kc4c329b011c4ca4238a0201)
+    * [英语王牌同义词](https://weread.qq.com/web/reader/64e323105d1e2564e95a610)
+
+  * 介词
+    * [实用英语蓝宝书：介词用法大全](https://weread.qq.com/web/reader/c9b32050813ab9b3ag01052f) 
+
 
 * 英语词组
   * [英语词组全书（全集）](https://weread.qq.com/web/reader/72532490715aae157252b1fkc81322c012c81e728d9d180) 
@@ -139,7 +154,8 @@
   * [专四专八考试必备：235个重点短语搭配](http://yingyu.xdf.cn/202003/11044775.html)
   * [英语常用短语大全集（第2版）](https://weread.qq.com/web/reader/8b1323905e19e68b1c42e6ckc81322c012c81e728d9d180)
   * [300组常用英文短语轻松学好英语](https://weread.qq.com/web/reader/68732100813ab7b4fg0147bdkc81322c012c81e728d9d180)
-* 分类英语
+
+# 分类英语
   * [新手学外贸英语一本通（全新版）](https://weread.qq.com/web/reader/abf32640726e3ae7abf36c3) 
   * computer english
     * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
