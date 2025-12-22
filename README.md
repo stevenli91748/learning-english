@@ -209,6 +209,8 @@
     * [商务英语全能王](https://weread.qq.com/web/reader/1f932ed0715af0f41f9aa99) 
   * 新闻英语
     * []() 
+  * 法律英语
+    * [法律英语（第五版）](https://weread.qq.com/web/reader/b9c32240718b7060b9cd879) 
   * 天气英语
     * [天气谚语在长期天气预报中的应用（英文版）](https://weread.qq.com/web/reader/d3e32030813ab9672g0108e1) 
   * 城市轨道交通专业英语
@@ -224,7 +226,9 @@
     * [世界500强企业员工常用英语单词大全](https://weread.qq.com/web/reader/3c532ea07186005e3c56613)
     * [英文E-mail应用大全：看模板学写邮件，看这本够了](https://weread.qq.com/web/reader/60a324f071defc0460aadc3)
   * 舌尖上的英语
-    * [舌尖上的英语（第2版）](https://weread.qq.com/web/reader/1ed32930718600541edece4) 
+    * [舌尖上的英语（第2版）](https://weread.qq.com/web/reader/1ed32930718600541edece4)
+  * 机械工程
+    * [机械工程](https://weread.qq.com/web/reader/acb325c05a0029acbee64ce) 
 # 有用的参考
  * [一句ChatGPT Prompt提示语 让给ChatGPT变身英语口语老师 ChatGPT Prompts魔法咒语大集合](https://www.youtube.com/watch?v=Ut6Sx6Z_dxo)
  * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
