@@ -88,6 +88,7 @@
 
 # 阅读
 * [英语阅读技巧大全：用削枝剪叶法学英语阅读](https://weread.qq.com/web/reader/1603200071defc20160f3e8)
+* [英语阅读参考手册---以英语关联词和常用词为引子，综合讨论其多种语法功能和搭配用法](https://weread.qq.com/web/reader/507329c0813ab7c2dg017c5e)
 * [精读笔记应该怎么做](https://weread.qq.com/web/reader/86d32010813ab8187g013e18kc51323901dc51ce410c121b)
 * [中国日报英文版](https://www.chinadaily.com.cn/)
 * [ 英语阅读必备工具：词典](https://weread.qq.com/web/reader/86d32010813ab8187g013e18k9bf32f301f9bf31c7ff0a60)
@@ -194,6 +195,8 @@
   * [新手学外贸英语一本通（全新版）](https://weread.qq.com/web/reader/abf32640726e3ae7abf36c3) 
   * computer english
     * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
+  * 科技
+    * [科技英语写作](https://weread.qq.com/web/reader/6a3326e0813ab7e98g018585)
   * 世界500强企业都在用系列
     * [世界500强企业都在用的国际英文合同大全集(第2版](https://weread.qq.com/web/reader/9d232610716ce9629d212a9)
     * [世界500强企业员工都在用的商务英语](https://weread.qq.com/web/reader/840326d0716ce92384072f8)
