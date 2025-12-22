@@ -106,6 +106,7 @@
   * [托福难句500例精讲分析](https://weread.qq.com/web/reader/fc332cc0715ce95ffc33bfbkc81322c012c81e728d9d180)
 
 * 美文阅读
+  * [世界经典英语演讲（世界经典英语美文读本）​（中英文对照）](https://weread.qq.com/web/reader/9ac32330813ab9c83g013a7fkc81322c012c81e728d9d180) 
   * [美文100篇--新东方](https://weread.qq.com/web/reader/3c432a60715aae6b3c4cdea)
   * [找对书籍和阅读方式，你也能轻松「入坑」英文原著](https://sspai.com/post/58325)
   * [六级晨读美文100篇](https://weread.qq.com/web/reader/3c432a60715aae6b3c4cdeakc81322c012c81e728d9d180)
