@@ -10,6 +10,7 @@
 # 在线书籍
 
 # 学习路径
+* [英语高效学习法：听说读写全攻略---重要](https://weread.qq.com/web/reader/86d32010813ab8187g013e18kc81322c012c81e728d9d180)
 * [我用OpenAI ChatGPT翻译整个网页 翻译质量接近人工翻译 中英文对照翻译显示 ChatGPT沉浸式翻译 让我的英语水平突飞猛进 用ChatGPT看世界各地外文新闻杂志获取第一手的最新可靠资讯](https://www.youtube.com/watch?v=iTgqmhhFyyI)
 * [英语就这样学](https://weread.qq.com/web/reader/b2932e507197bd0eb29f59a)
 * [youtube 5大学习频道](https://www.youtube.com/watch?v=KRPaYW5KEO8)
@@ -38,6 +39,9 @@
 * [日常生活场景相关的英语口语材料---wikihow是世界上最大的“how-to”指南网站之一。你可以在网站上看到大量教你“怎么做某事”的文章，比如“how to wash amotorcycle”​“how to become a dentist”​“how to playbasketball”​“how to fish”等等。目前网站上有超过5.6万篇文章，几乎涵盖了所有你能想到的主题。而且更重要的一点是，这些文章绝大多数都是用英文写的，用词和句式都非常简单自然，是非常理想的学习日常生活表达的材料。我们可以用wikihow来准备口语话题。](https://www.wikihow.com/Main-Page)
 * [procon.org是一个非营利性质的公益网站，其成立目标是通过提供对常见争议话题的多方面观点，培养大众的批判性思维，让大众对争议性事件有更加清晰的认识](www.procon.org) 
 
+* [社交英语口语，看这本就够（第2版）](https://weread.qq.com/web/reader/6a832ae07159fa3b6a8c477)
+
+
 # 听力
 
 * [怎么在一个月内让英语听力有明显的提高？](https://www.zhihu.com/question/24706380/answer/387403508?utm_source=wechat_session&utm_medium=social&utm_oi=1119162453489045504)
@@ -64,8 +68,13 @@
  
 * [美文100篇--新东方](https://weread.qq.com/web/reader/3c432a60715aae6b3c4cdea)
 * [找对书籍和阅读方式，你也能轻松「入坑」英文原著](https://sspai.com/post/58325)
-* [英语阅读基本功长难句分析](https://weread.qq.com/web/reader/a2a328107192ce6fa2a414c)
-* [英语阅读技巧大全：句子分析](https://weread.qq.com/web/reader/1603200071defc20160f3e8kc81322c012c81e728d9d180)
+
+* 难句精讲分析
+  * [英语阅读基本功长难句分析](https://weread.qq.com/web/reader/a2a328107192ce6fa2a414c)
+  * [英语阅读技巧大全：句子分析](https://weread.qq.com/web/reader/1603200071defc20160f3e8kc81322c012c81e728d9d180)
+  * [托福难句500例精讲分析](https://weread.qq.com/web/reader/fc332cc0715ce95ffc33bfbkc81322c012c81e728d9d180)
+  * 
+
 
 # 写作
 * [ 几本对写作有帮助的工具书](https://weread.qq.com/web/reader/86d32010813ab8187g013e18k72b327f023972b32a1f7e2d)
@@ -73,6 +82,10 @@
 * [新东方英语写作](http://yingyu.xdf.cn/xz/)
 * [很多写作阅读的书](https://www.tianfateng.cn/)
 * [六個階段的練習，寫出漂亮的英文句子](https://barshai.org/thoughts/how-to-practice-writing-english-sentences/)
+
+* [英语写作我不怕：与美国学生同步高效学写作](https://weread.qq.com/web/reader/a4632f7071f5e26ca46b99d)
+* [抄写英语的奇迹](https://weread.qq.com/web/reader/df232c10813aba06dg013880kc81322c012c81e728d9d180)
+
 * 词汇
   * 单词词汇 
     * [当代英语核心词汇：初级3000词（当代英语核心词汇）](https://weread.qq.com/web/reader/fb232de0813ab69c1g010aa6)
@@ -96,8 +109,8 @@
   * [高中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/0eb325b0721821e50eb0ead)
 
 
-* 难句精讲分析
-  * [托福难句500例精讲分析](https://weread.qq.com/web/reader/fc332cc0715ce95ffc33bfbkc81322c012c81e728d9d180)
+
+  
 * 英语句型
   * [英语句型](https://weread.qq.com/web/reader/c7432b6071593456c740800)
   * [286个英语句型](https://weread.qq.com/web/reader/e4532cb05e19e8e4524a00a)
@@ -119,6 +132,10 @@
   * [高中英语必修1-选修8常考的526个短语及经典例句汇总](http://yingyu.xdf.cn/202003/11047109.html)
   * [专四专八考试必备：235个重点短语搭配](http://yingyu.xdf.cn/202003/11044775.html)
   
+
+* 分类英语
+  * [新手学外贸英语一本通（全新版）](https://weread.qq.com/web/reader/abf32640726e3ae7abf36c3) 
+
   
 * 
 # 有用的参考
