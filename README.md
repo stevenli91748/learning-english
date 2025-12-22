@@ -39,7 +39,7 @@
 * [英语语法分解大全](https://weread.qq.com/web/reader/d8732d007260a549d87183bkc81322c012c81e728d9d180)
 * [零基础学好英语语法2](https://weread.qq.com/web/reader/02b32bd071c95e7402b4637k341323f021e34173cb3824c)
 * [100个句子记完2000个中考单词+300个句子攻克中考英语语](https://weread.qq.com/web/reader/84532fe0813ab8fa3g011125kc81322c012c81e728d9d180)
-
+* [高考英语语法强化训练1000题](https://weread.qq.com/web/reader/e9632fc0715aaea4e96acc2)
 
 
 # 口语
@@ -84,6 +84,9 @@
   * [美文100篇--新东方](https://weread.qq.com/web/reader/3c432a60715aae6b3c4cdea)
   * [找对书籍和阅读方式，你也能轻松「入坑」英文原著](https://sspai.com/post/58325)
   * [六级晨读美文100篇](https://weread.qq.com/web/reader/3c432a60715aae6b3c4cdeakc81322c012c81e728d9d180)
+  * [每天读点好英文：人生没有太晚的开始](https://weread.qq.com/web/reader/36f32a105c887a36ff41c55kc81322c012c81e728d9d180)
+  * 
+
 
 # 写作
 * [ 几本对写作有帮助的工具书](https://weread.qq.com/web/reader/86d32010813ab8187g013e18k72b327f023972b32a1f7e2d)
@@ -96,6 +99,11 @@
 * [抄写英语的奇迹](https://weread.qq.com/web/reader/df232c10813aba06dg013880kc81322c012c81e728d9d180)
 * [英语专业八级写作特训](https://weread.qq.com/web/reader/63e32220715ce91b63e7f32kc81322c012c81e728d9d180)
 * [一学就会的实用英语六级写作模板](https://weread.qq.com/web/reader/b0a3264071649baeb0ad8d2)
+* [英文科技论文写作的100个常见错误](https://weread.qq.com/web/reader/65a32100719db10765a10a9kecc32f3013eccbc87e4b62e)
+* [顾家北手把手教你雅思写作](https://weread.qq.com/web/reader/54132100813ab735fg016ce0kc81322c012c81e728d9d180)
+* [精进写作：如何成为一名写作高手](https://weread.qq.com/web/reader/e2a32f80723ec976e2a8c40kc81322c012c81e728d9d180)
+* [考研英语高分写作](https://weread.qq.com/web/reader/c2832d20717f446bc28d2d6)
+
 
 * 词汇
   * 单词词汇 
@@ -106,7 +114,7 @@
     * [考博英语词汇10000例精解](https://weread.qq.com/web/reader/38c3226071916d9e38ca279kc81322c012c81e728d9d180)
     * [情景分类记忆18000英语单词](https://weread.qq.com/web/reader/287327f071c95ddb287d84bkc81322c012c81e728d9d180)
     * [100个句子记完3500个高考单词 同步学练测](https://weread.qq.com/web/reader/92432c10813ab89f8g01222akc81322c012c81e728d9d180)
-
+    * [100个句子记完7000个托福单词](https://weread.qq.com/web/reader/9da32560715aae439daedd7kc81322c012c81e728d9d180)
   * [英语词汇速记大全--新东方](https://weread.qq.com/web/reader/55232430715bb6ec5529f2d)
   * [英语单词前缀详解](https://weread.qq.com/web/reader/ce232210715ea90ace20348)
   * [英语单词词根详解](https://weread.qq.com/web/reader/8b932e407159fa658b9a668kc81322c012c81e728d9d180)
@@ -139,6 +147,7 @@
   * [中考英语作文万能句，考场100%用的上！（含开头+中间+结尾句）](http://yingyu.xdf.cn/201806/10792720_3.html)
   * [句子大全](http://www.1juzi.com/new/45638.html)
   * [英语作文万能句子大全](http://xiaoxue.xdf.cn/201412/10175458.html)
+  * [大学英语六级经典必背500句](https://weread.qq.com/web/reader/800323e07158c8e0800fd55kc81322c012c81e728d9d180)
 
 
 * 英语短语
@@ -154,13 +163,19 @@
   * [专四专八考试必备：235个重点短语搭配](http://yingyu.xdf.cn/202003/11044775.html)
   * [英语常用短语大全集（第2版）](https://weread.qq.com/web/reader/8b1323905e19e68b1c42e6ckc81322c012c81e728d9d180)
   * [300组常用英文短语轻松学好英语](https://weread.qq.com/web/reader/68732100813ab7b4fg0147bdkc81322c012c81e728d9d180)
+  * [实用英语短语宝典](https://weread.qq.com/web/reader/cbd326405cec61cbd340038kc81322c012c81e728d9d180)
+
 
 # 分类英语
   * [新手学外贸英语一本通（全新版）](https://weread.qq.com/web/reader/abf32640726e3ae7abf36c3) 
   * computer english
     * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
-
-  
+  * 世界500强企业都在用系列
+    * [世界500强企业都在用的国际英文合同大全集(第2版](https://weread.qq.com/web/reader/9d232610716ce9629d212a9)
+    * [世界500强企业员工都在用的商务英语](https://weread.qq.com/web/reader/840326d0716ce92384072f8)
+    * [世界500强企业员工都在说的英语口语大全（第2版）](https://weread.qq.com/web/reader/7f232aa0716ce91f7f20ca1)
+    * [世界500强企业员工常用英语单词大全](https://weread.qq.com/web/reader/3c532ea07186005e3c56613)
+    * [英文E-mail应用大全：看模板学写邮件，看这本够了](https://weread.qq.com/web/reader/60a324f071defc0460aadc3)
 * 
 # 有用的参考
  * [一句ChatGPT Prompt提示语 让给ChatGPT变身英语口语老师 ChatGPT Prompts魔法咒语大集合](https://www.youtube.com/watch?v=Ut6Sx6Z_dxo)
