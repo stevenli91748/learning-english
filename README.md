@@ -197,6 +197,10 @@
     * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
   * 科技
     * [科技英语写作](https://weread.qq.com/web/reader/6a3326e0813ab7e98g018585)
+    * [科技英语论文阅读与写作](https://weread.qq.com/web/reader/3ff32b80813ab8e1dg010040kc81322c012c81e728d9d180)
+    * [大学英语实用写作教程（科技类）](https://weread.qq.com/web/reader/a2a3282071f558d8a2ad592kc81322c012c81e728d9d180)
+  * 新闻英语
+    * []() 
   * 世界500强企业都在用系列
     * [世界500强企业都在用的国际英文合同大全集(第2版](https://weread.qq.com/web/reader/9d232610716ce9629d212a9)
     * [世界500强企业员工都在用的商务英语](https://weread.qq.com/web/reader/840326d0716ce92384072f8)
