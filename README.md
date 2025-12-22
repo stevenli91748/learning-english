@@ -108,16 +108,18 @@
 
 
 * 英语短语
-  * [英语短语3000例](https://weread.qq.com/web/reader/69032a5072181e8d6906b0fkc81322c012c81e728d9d180)
-  * [初中英语短语整理：93个“be+...”短语分类汇总](http://yingyu.xdf.cn/202004/11053189_2.html)
-  * [高中英语必修1-选修8常考的526个短语及经典例句汇总](http://yingyu.xdf.cn/202003/11047109.html)
-  * [专四专八考试必备：235个重点短语搭配](http://yingyu.xdf.cn/202003/11044775.html)
-  * [2020中考英语一轮复习必背重点短语/句型大全](http://yingyu.xdf.cn/202002/11032614.html)
+  * [初中英语短语整理：93个“be+...”短语分类汇总](http://yingyu.xdf.cn/202004/11053189_2.html) 
   * [一张表记完初中英语必考338条核心短语](http://yingyu.xdf.cn/202002/11032838.html)
   * [初中英语九年级全册重点短语和句型总结](http://yingyu.xdf.cn/202003/11039460.html)
   * [初中英语考试必考：50组重点词语辨析](http://yingyu.xdf.cn/201910/10985549.html)
   * [初一到初三，489个重点词组，全在这了](http://yingyu.xdf.cn/201905/10910211.html)
   * [背会这200条必考的初中英语固定搭配](http://yingyu.xdf.cn/201905/10907453_10.html)
+  * [2020中考英语一轮复习必背重点短语/句型大全](http://yingyu.xdf.cn/202002/11032614.html)
+  * [英语短语3000例](https://weread.qq.com/web/reader/69032a5072181e8d6906b0fkc81322c012c81e728d9d180)
+  * [高中英语必修1-选修8常考的526个短语及经典例句汇总](http://yingyu.xdf.cn/202003/11047109.html)
+  * [专四专八考试必备：235个重点短语搭配](http://yingyu.xdf.cn/202003/11044775.html)
+  
+  
 * 
 # 有用的参考
  * [一句ChatGPT Prompt提示语 让给ChatGPT变身英语口语老师 ChatGPT Prompts魔法咒语大集合](https://www.youtube.com/watch?v=Ut6Sx6Z_dxo)
