@@ -132,6 +132,7 @@
 
 * 词汇
   * 单词词汇 
+    * [把你的词汇用起来](https://weread.qq.com/web/reader/8b832d605e1df98b8be6842)
     * [当代英语核心词汇：初级3000词（当代英语核心词汇）](https://weread.qq.com/web/reader/fb232de0813ab69c1g010aa6)
     * [当代英语核心词汇：中级4000词（当代英语核心词汇](https://weread.qq.com/web/reader/d4f32f30813ab69f4g016388)
     * [当代英语核心词汇：中高级4000词（当代英语核心词汇](https://weread.qq.com/web/reader/3b1320c0813ab69c2g010b92)
@@ -201,6 +202,10 @@
     * [大学英语实用写作教程（科技类）](https://weread.qq.com/web/reader/a2a3282071f558d8a2ad592kc81322c012c81e728d9d180)
   * 新闻英语
     * []() 
+  * 天气英语
+    * [天气谚语在长期天气预报中的应用（英文版）](https://weread.qq.com/web/reader/d3e32030813ab9672g0108e1) 
+  * 城市轨道交通专业英语
+    * [城市轨道交通专业英语](https://weread.qq.com/web/reader/27a3209071e426e227ae7a9kc81322c012c81e728d9d180) 
   * 世界500强企业都在用系列
     * [世界500强企业都在用的国际英文合同大全集(第2版](https://weread.qq.com/web/reader/9d232610716ce9629d212a9)
     * [世界500强企业员工都在用的商务英语](https://weread.qq.com/web/reader/840326d0716ce92384072f8)
