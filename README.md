@@ -27,12 +27,10 @@
     * [eng vid---系统化，体系化学习平台](https://www.youtube.com/@EngVid) 
 
 
-# computer english
-* [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
 
 # 英美文化
 * [了解英美一本就够](https://weread.qq.com/web/reader/168329505e1a95168b695c7kc81322c012c81e728d9d180)
-* 
+* [英美社会与文化](https://weread.qq.com/web/reader/8d03255071a0f5ea8d02118kc81322c012c81e728d9d180)
 
 
 # 语法
@@ -100,7 +98,7 @@
     * [当代英语核心词汇：中级4000词（当代英语核心词汇](https://weread.qq.com/web/reader/d4f32f30813ab69f4g016388)
     * [当代英语核心词汇：中高级4000词（当代英语核心词汇](https://weread.qq.com/web/reader/3b1320c0813ab69c2g010b92)
     * [当代英语核心词汇：高级6000词（当代英语核心词汇](https://weread.qq.com/web/reader/00732f70813ab69c1g019314)
-    * []()
+    * [考博英语词汇10000例精解](https://weread.qq.com/web/reader/38c3226071916d9e38ca279kc81322c012c81e728d9d180)
     * []()
   * [英语词汇速记大全--新东方](https://weread.qq.com/web/reader/55232430715bb6ec5529f2d)
   * [英语单词前缀详解](https://weread.qq.com/web/reader/ce232210715ea90ace20348)
@@ -143,6 +141,8 @@
 
 * 分类英语
   * [新手学外贸英语一本通（全新版）](https://weread.qq.com/web/reader/abf32640726e3ae7abf36c3) 
+  * computer english
+    * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
 
   
 * 
