@@ -74,6 +74,8 @@
 * [我的第一本英语口语书](https://weread.qq.com/web/reader/64c327105c909164c6b7cf9kc81322c012c81e728d9d180)
 * [英语口语入门句型300](https://weread.qq.com/web/reader/1063217071860060106dfd3kc81322c012c81e728d9d180)
 * [出国英语口语 : 吃住行游玩一本全](https://weread.qq.com/web/reader/fa4326a05c5070fa46ec181)
+
+
 # 听力
 
 * [怎么在一个月内让英语听力有明显的提高？](https://www.zhihu.com/question/24706380/answer/387403508?utm_source=wechat_session&utm_medium=social&utm_oi=1119162453489045504)
@@ -195,13 +197,16 @@
 
 
 # 分类英语
-  * [新手学外贸英语一本通（全新版）](https://weread.qq.com/web/reader/abf32640726e3ae7abf36c3) 
+  
   * computer english
     * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
   * 科技
     * [科技英语写作](https://weread.qq.com/web/reader/6a3326e0813ab7e98g018585)
     * [科技英语论文阅读与写作](https://weread.qq.com/web/reader/3ff32b80813ab8e1dg010040kc81322c012c81e728d9d180)
     * [大学英语实用写作教程（科技类）](https://weread.qq.com/web/reader/a2a3282071f558d8a2ad592kc81322c012c81e728d9d180)
+  * 商务英语
+    * [新手学外贸英语一本通（全新版）](https://weread.qq.com/web/reader/abf32640726e3ae7abf36c3)
+    * [商务英语全能王](https://weread.qq.com/web/reader/1f932ed0715af0f41f9aa99) 
   * 新闻英语
     * []() 
   * 天气英语
@@ -214,7 +219,8 @@
     * [世界500强企业员工都在说的英语口语大全（第2版）](https://weread.qq.com/web/reader/7f232aa0716ce91f7f20ca1)
     * [世界500强企业员工常用英语单词大全](https://weread.qq.com/web/reader/3c532ea07186005e3c56613)
     * [英文E-mail应用大全：看模板学写邮件，看这本够了](https://weread.qq.com/web/reader/60a324f071defc0460aadc3)
-* 
+  * 舌尖上的英语
+    * [舌尖上的英语（第2版）](https://weread.qq.com/web/reader/1ed32930718600541edece4) 
 # 有用的参考
  * [一句ChatGPT Prompt提示语 让给ChatGPT变身英语口语老师 ChatGPT Prompts魔法咒语大集合](https://www.youtube.com/watch?v=Ut6Sx6Z_dxo)
  * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
