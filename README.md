@@ -38,8 +38,17 @@
 * [张道真英语语法](https://weread.qq.com/web/reader/c4132da071a12fabc411070)
 * [英语语法分解大全](https://weread.qq.com/web/reader/d8732d007260a549d87183bkc81322c012c81e728d9d180)
 * [零基础学好英语语法2](https://weread.qq.com/web/reader/02b32bd071c95e7402b4637k341323f021e34173cb3824c)
-* [100个句子记完2000个中考单词+300个句子攻克中考英语语](https://weread.qq.com/web/reader/84532fe0813ab8fa3g011125kc81322c012c81e728d9d180)
+* [100个句子记完2000个中考单词+300个句子攻克中考英语语法](https://weread.qq.com/web/reader/84532fe0813ab8fa3g011125kc81322c012c81e728d9d180)
 * [高考英语语法强化训练1000题](https://weread.qq.com/web/reader/e9632fc0715aaea4e96acc2)
+* 名师英语语法课堂
+  * []()
+  * []()
+  * []()
+  * []()
+  * []() 
+  * [名师英语语法课堂：名词性从句](https://weread.qq.com/web/reader/74532c80721822057458b0d)
+  * [名师英语语法课堂：定语从句](https://weread.qq.com/web/reader/e7c320c072182207e7ca493)
+  * [名师英语语法课堂：状语从句](https://weread.qq.com/web/reader/c5b326a072182209c5b25e4)
 
 
 # 口语
