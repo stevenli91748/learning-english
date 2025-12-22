@@ -30,9 +30,17 @@
 # computer english
 * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
 
+# 英美文化
+* [了解英美一本就够](https://weread.qq.com/web/reader/168329505e1a95168b695c7kc81322c012c81e728d9d180)
+* 
+
 
 # 语法
 * [张道真英语语法](https://weread.qq.com/web/reader/c4132da071a12fabc411070)
+* [英语语法分解大全](https://weread.qq.com/web/reader/d8732d007260a549d87183bkc81322c012c81e728d9d180)
+* [零基础学好英语语法2](https://weread.qq.com/web/reader/02b32bd071c95e7402b4637k341323f021e34173cb3824c)
+* 
+
 
 
 # 口语
@@ -40,7 +48,7 @@
 * [procon.org是一个非营利性质的公益网站，其成立目标是通过提供对常见争议话题的多方面观点，培养大众的批判性思维，让大众对争议性事件有更加清晰的认识](www.procon.org) 
 
 * [社交英语口语，看这本就够（第2版）](https://weread.qq.com/web/reader/6a832ae07159fa3b6a8c477)
-
+* [说出美国人的每一天：英语会话8000句](https://weread.qq.com/web/reader/c6c326505e1a34c6c40bf73)
 
 # 听力
 
@@ -131,7 +139,7 @@
   * [英语短语3000例](https://weread.qq.com/web/reader/69032a5072181e8d6906b0fkc81322c012c81e728d9d180)
   * [高中英语必修1-选修8常考的526个短语及经典例句汇总](http://yingyu.xdf.cn/202003/11047109.html)
   * [专四专八考试必备：235个重点短语搭配](http://yingyu.xdf.cn/202003/11044775.html)
-  
+  * [英语常用短语大全集（第2版）](https://weread.qq.com/web/reader/8b1323905e19e68b1c42e6ckc81322c012c81e728d9d180)
 
 * 分类英语
   * [新手学外贸英语一本通（全新版）](https://weread.qq.com/web/reader/abf32640726e3ae7abf36c3) 
