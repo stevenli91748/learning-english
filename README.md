@@ -214,7 +214,9 @@
   * 城市轨道交通专业英语
     * [城市轨道交通专业英语](https://weread.qq.com/web/reader/27a3209071e426e227ae7a9kc81322c012c81e728d9d180) 
   * 金融英语
-    * [读英国《金融时报》学英语（一）​（套装10本）](https://weread.qq.com/web/reader/6833204071965c966834754) 
+    * [读英国《金融时报》学英语（一）​（套装10本）](https://weread.qq.com/web/reader/6833204071965c966834754)
+    * [读英国《金融时报》学英语（二）​（套装10本）](https://weread.qq.com/web/reader/bdd3284071965c94bdddb3c)
+    * [读英国《金融时报》学英语（五）​（套装10本](https://weread.qq.com/web/reader/af93223071919fd6af94121)
   * 世界500强企业都在用系列
     * [世界500强企业都在用的国际英文合同大全集(第2版](https://weread.qq.com/web/reader/9d232610716ce9629d212a9)
     * [世界500强企业员工都在用的商务英语](https://weread.qq.com/web/reader/840326d0716ce92384072f8)
