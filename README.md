@@ -230,7 +230,10 @@
   * 机械工程
     * [机械工程](https://weread.qq.com/web/reader/acb325c05a0029acbee64ce)
   * 旅游
-    * [旅游英语一本就Go](https://weread.qq.com/web/reader/eb832280715bb6e4eb824d2)  
+    * [旅游英语一本就Go](https://weread.qq.com/web/reader/eb832280715bb6e4eb824d2)
+  * 医学
+    * [临床常见疾病：医学英语文献阅读](https://weread.qq.com/web/reader/32a32ef0722d7ad732a7594)
+    * [全国医学博士英语统考词汇巧战通关](https://weread.qq.com/web/reader/20f3243071916d9420fb98akc81322c012c81e728d9d180) 
 # 有用的参考
  * [一句ChatGPT Prompt提示语 让给ChatGPT变身英语口语老师 ChatGPT Prompts魔法咒语大集合](https://www.youtube.com/watch?v=Ut6Sx6Z_dxo)
  * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
