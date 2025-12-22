@@ -213,6 +213,8 @@
     * [天气谚语在长期天气预报中的应用（英文版）](https://weread.qq.com/web/reader/d3e32030813ab9672g0108e1) 
   * 城市轨道交通专业英语
     * [城市轨道交通专业英语](https://weread.qq.com/web/reader/27a3209071e426e227ae7a9kc81322c012c81e728d9d180) 
+  * 金融英语
+    * [读英国《金融时报》学英语（一）​（套装10本）](https://weread.qq.com/web/reader/6833204071965c966834754) 
   * 世界500强企业都在用系列
     * [世界500强企业都在用的国际英文合同大全集(第2版](https://weread.qq.com/web/reader/9d232610716ce9629d212a9)
     * [世界500强企业员工都在用的商务英语](https://weread.qq.com/web/reader/840326d0716ce92384072f8)
