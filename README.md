@@ -198,10 +198,14 @@
 
 
 # 分类英语
-  
+  * 北美麦唐娜生存英语
+    * [北美麦唐娜生存英语](https://weread.qq.com/web/reader/a0332470813ab7b22g010326kc81322c012c81e728d9d180) 
   * computer english
     * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
     * [计算机英语（第3版](https://weread.qq.com/web/reader/d9132a1072176e6cd917d1akc81322c012c81e728d9d180)
+    * [计算机专业英语（第2版）](https://weread.qq.com/web/reader/eb032070717d31a9eb0a105)
+  * 电子技术专业英语
+    * [电子技术专业英语](https://weread.qq.com/web/reader/cdb32cd059feadcdbce0f5bkc81322c012c81e728d9d180) 
   * 科技
     * [科技英语写作](https://weread.qq.com/web/reader/6a3326e0813ab7e98g018585)
     * [科技英语论文阅读与写作](https://weread.qq.com/web/reader/3ff32b80813ab8e1dg010040kc81322c012c81e728d9d180)
@@ -216,6 +220,8 @@
     * [法律英语（第五版）](https://weread.qq.com/web/reader/b9c32240718b7060b9cd879) 
   * 天气英语
     * [天气谚语在长期天气预报中的应用（英文版）](https://weread.qq.com/web/reader/d3e32030813ab9672g0108e1) 
+  * 国际航运与港口英语
+    * [国际航运与港口英语](https://weread.qq.com/web/reader/d9132a00719ed24bd91ebb3) 
   * 城市轨道交通专业英语
     * [城市轨道交通专业英语](https://weread.qq.com/web/reader/27a3209071e426e227ae7a9kc81322c012c81e728d9d180) 
   * 金融英语
@@ -240,7 +246,11 @@
   * 服装
     * [实用服装专业英语（第3版）](https://weread.qq.com/web/reader/5fd3298071e8776e5fddc3e)
   * 设计专业英语
-    * [设计专业英语](https://weread.qq.com/web/reader/e483206071801592e48f9ef)  
+    * [设计专业英语](https://weread.qq.com/web/reader/e483206071801592e48f9ef)
+  * 会计专业英语
+    * [会计专业英语（第2版）](https://weread.qq.com/web/reader/bfc322f071e7486fbfca649)
+  * 公共管理专业英语
+    * [公共管理专业英语](https://weread.qq.com/web/reader/1f0324f0718628fd1f0dbefkc81322c012c81e728d9d180) 
 # 有用的参考
  * [一句ChatGPT Prompt提示语 让给ChatGPT变身英语口语老师 ChatGPT Prompts魔法咒语大集合](https://www.youtube.com/watch?v=Ut6Sx6Z_dxo)
  * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
