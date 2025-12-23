@@ -238,7 +238,9 @@
     * [临床常见疾病：医学英语文献阅读](https://weread.qq.com/web/reader/32a32ef0722d7ad732a7594)
     * [全国医学博士英语统考词汇巧战通关](https://weread.qq.com/web/reader/20f3243071916d9420fb98akc81322c012c81e728d9d180)
   * 服装
-    * [实用服装专业英语（第3版）](https://weread.qq.com/web/reader/5fd3298071e8776e5fddc3e)  
+    * [实用服装专业英语（第3版）](https://weread.qq.com/web/reader/5fd3298071e8776e5fddc3e)
+  * 设计专业英语
+    * [设计专业英语](https://weread.qq.com/web/reader/e483206071801592e48f9ef)  
 # 有用的参考
  * [一句ChatGPT Prompt提示语 让给ChatGPT变身英语口语老师 ChatGPT Prompts魔法咒语大集合](https://www.youtube.com/watch?v=Ut6Sx6Z_dxo)
  * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
