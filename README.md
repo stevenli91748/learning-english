@@ -74,7 +74,7 @@
 * [我的第一本英语口语书](https://weread.qq.com/web/reader/64c327105c909164c6b7cf9kc81322c012c81e728d9d180)
 * [英语口语入门句型300](https://weread.qq.com/web/reader/1063217071860060106dfd3kc81322c012c81e728d9d180)
 * [出国英语口语 : 吃住行游玩一本全](https://weread.qq.com/web/reader/fa4326a05c5070fa46ec181)
-
+* [开口说英语（旅游篇）](https://weread.qq.com/web/reader/d9232c30715aadfbd92ec4c)
 
 # 听力
 
@@ -200,13 +200,15 @@
   
   * computer english
     * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
+    * [计算机英语（第3版](https://weread.qq.com/web/reader/d9132a1072176e6cd917d1akc81322c012c81e728d9d180)
   * 科技
     * [科技英语写作](https://weread.qq.com/web/reader/6a3326e0813ab7e98g018585)
     * [科技英语论文阅读与写作](https://weread.qq.com/web/reader/3ff32b80813ab8e1dg010040kc81322c012c81e728d9d180)
     * [大学英语实用写作教程（科技类）](https://weread.qq.com/web/reader/a2a3282071f558d8a2ad592kc81322c012c81e728d9d180)
   * 商务英语
     * [新手学外贸英语一本通（全新版）](https://weread.qq.com/web/reader/abf32640726e3ae7abf36c3)
-    * [商务英语全能王](https://weread.qq.com/web/reader/1f932ed0715af0f41f9aa99) 
+    * [商务英语全能王](https://weread.qq.com/web/reader/1f932ed0715af0f41f9aa99)
+    * [商务英语10000单词](https://weread.qq.com/web/reader/a3c3252071ede7fda3ca54a) 
   * 新闻英语
     * []() 
   * 法律英语
