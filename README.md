@@ -41,6 +41,7 @@
 * [100个句子记完2000个中考单词+300个句子攻克中考英语语法](https://weread.qq.com/web/reader/84532fe0813ab8fa3g011125kc81322c012c81e728d9d180)
 * [高考英语语法强化训练1000题](https://weread.qq.com/web/reader/e9632fc0715aaea4e96acc2)
 * [真希望老师这样教英语句型](https://weread.qq.com/web/reader/c7432b6071593456c740800)
+* [高考英语语法精讲精练（备战2026高考）](https://weread.qq.com/web/reader/cbc324505e3edbcbcb445f5k977321c02529778d5d2116b)
 * 名师英语语法课堂
   * [名师英语语法课堂：介词](https://weread.qq.com/web/reader/1ba32d80721821f91bad7f4kc81322c012c81e728d9d180)
   * [名师英语语法课堂：数词](https://weread.qq.com/web/reader/eec32720721821f7eeccafd)
@@ -235,7 +236,9 @@
     * [旅游英语一本就Go](https://weread.qq.com/web/reader/eb832280715bb6e4eb824d2)
   * 医学
     * [临床常见疾病：医学英语文献阅读](https://weread.qq.com/web/reader/32a32ef0722d7ad732a7594)
-    * [全国医学博士英语统考词汇巧战通关](https://weread.qq.com/web/reader/20f3243071916d9420fb98akc81322c012c81e728d9d180) 
+    * [全国医学博士英语统考词汇巧战通关](https://weread.qq.com/web/reader/20f3243071916d9420fb98akc81322c012c81e728d9d180)
+  * 服装
+    * [实用服装专业英语（第3版）](https://weread.qq.com/web/reader/5fd3298071e8776e5fddc3e)  
 # 有用的参考
  * [一句ChatGPT Prompt提示语 让给ChatGPT变身英语口语老师 ChatGPT Prompts魔法咒语大集合](https://www.youtube.com/watch?v=Ut6Sx6Z_dxo)
  * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
