@@ -88,7 +88,7 @@
   * [TED Radio Hour](https://www.npr.org/programs/ted-radio-hour/)
 * [6 Minute English 中级学习者](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english)
 * [This American Life 难度比较高的听力材料,提供了音频的完整文本](https://www.thisamericanlife.org/)
-* []()
+* [BBC Learn English](https://www.bbc.co.uk/learningenglish/chinese/features/media-english/ep-251215)
 
 # 阅读
 * [英语阅读技巧大全：用削枝剪叶法学英语阅读](https://weread.qq.com/web/reader/1603200071defc20160f3e8)
@@ -102,7 +102,7 @@
 * [洛杉磯時報](https://www.latimes.com/)
 * [华尔街日报](https://www.wsj.com/?_gl=1*4yc60f*_gcl_au*NTQ2NzE0MDc1LjE3NjQ2MzE2MzU.*_ga*MTczMDI2MjE2OC4xNzY0NjMxNjM1*_ga_K2H7B9JRSS*czE3NjQ2MzE2MzUkbzEkZzEkdDE3NjQ2MzE4MTYkajIkbDAkaDM1Njc0NzIxNw..)
 * [金融时报](https://www.ft.com/?_gl=1*h4x9m0*_ga*MTczMTE0NTUyNC4xNzY0NjMxOTAz*_ga_2MCQJHGE8J*czE3NjQ2MzE5MDMkbzEkZzAkdDE3NjQ2MzE5MDYkajU3JGwwJGgw)
- 
+* [自由时报---中英對照讀新聞](https://features.ltn.com.tw/english) 
 
 * 难句精讲分析
   * [英语阅读基本功长难句分析](https://weread.qq.com/web/reader/a2a328107192ce6fa2a414c)
