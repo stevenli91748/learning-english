@@ -78,7 +78,7 @@
 * [开口说英语（旅游篇）](https://weread.qq.com/web/reader/d9232c30715aadfbd92ec4c)
 
 # 听力
-
+* [1个习惯带你直接听懂英文，让你英文听力像母语一样强！（深度解析）](https://www.youtube.com/watch?v=t-kOwCmtcmA)
 * [怎么在一个月内让英语听力有明显的提高？](https://www.zhihu.com/question/24706380/answer/387403508?utm_source=wechat_session&utm_medium=social&utm_oi=1119162453489045504)
 * [10部适合学英语的美剧 ](https://www.sohu.com/a/238355321_695006)
 * [CNN 10 ---难度低 CNN 10是CNN面向美国中学生的一档新闻节目，它涉及的内容从时事政治到生活琐事都有，包罗万象，语速和词汇量也适中，非常适合中级学习者用于提高听力水平](https://www.cnn10.com/)
