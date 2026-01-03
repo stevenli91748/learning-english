@@ -122,6 +122,7 @@
 # 写作
 * [ 几本对写作有帮助的工具书](https://weread.qq.com/web/reader/86d32010813ab8187g013e18k72b327f023972b32a1f7e2d)
 * [2025 精选：5个超实用英语作文网站推荐](https://www.wukongsch.com/blog/zh/english-composition-website-post-29948/)
+* [新大纲英语作文万能模板](https://weread.qq.com/web/reader/f6b324f05a06edf6b1b30df)
 * [新东方英语写作](http://yingyu.xdf.cn/xz/)
 * [很多写作阅读的书](https://www.tianfateng.cn/)
 * [六個階段的練習，寫出漂亮的英文句子](https://barshai.org/thoughts/how-to-practice-writing-english-sentences/)
