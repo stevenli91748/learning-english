@@ -35,7 +35,7 @@
 * [美国的故事（七册套装）](https://weread.qq.com/web/reader/d9f326d05e224bd9ff15db9k697324802676974ce5aceab)
 
 # 语法
-* [张道真英语语法](https://weread.qq.com/web/reader/c4132da071a12fabc411070)
+* [张道真英语语法](https://weread.qq.com/web/reader/93b321c0813ab75c4g01121c)
 * [英语语法分解大全](https://weread.qq.com/web/reader/d8732d007260a549d87183bkc81322c012c81e728d9d180)
 * [零基础学好英语语法2](https://weread.qq.com/web/reader/02b32bd071c95e7402b4637k341323f021e34173cb3824c)
 * [100个句子记完2000个中考单词+300个句子攻克中考英语语法](https://weread.qq.com/web/reader/84532fe0813ab8fa3g011125kc81322c012c81e728d9d180)
