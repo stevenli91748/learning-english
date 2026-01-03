@@ -246,6 +246,8 @@
     * [英文E-mail应用大全：看模板学写邮件，看这本够了](https://weread.qq.com/web/reader/60a324f071defc0460aadc3)
   * 舌尖上的英语
     * [舌尖上的英语（第2版）](https://weread.qq.com/web/reader/1ed32930718600541edece4)
+  * 汽车工程专业英语
+    * [汽车工程专业英语](https://weread.qq.com/web/reader/27f320405bcdbe27f533291) 
   * 机械工程
     * [机械工程](https://weread.qq.com/web/reader/acb325c05a0029acbee64ce)
   * 旅游
