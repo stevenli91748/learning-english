@@ -228,7 +228,15 @@
   * 金融英语
     * [读英国《金融时报》学英语（一）​（套装10本）](https://weread.qq.com/web/reader/6833204071965c966834754)
     * [读英国《金融时报》学英语（二）​（套装10本）](https://weread.qq.com/web/reader/bdd3284071965c94bdddb3c)
+    * [读英国《金融时报》学英语（三）​（套装10本）](https://weread.qq.com/web/reader/88032e707188969f8806d5a)
+    * []()
     * [读英国《金融时报》学英语（五）​（套装10本](https://weread.qq.com/web/reader/af93223071919fd6af94121)
+    * [读英国《金融时报》学英语（六）​（套装10本](https://weread.qq.com/web/reader/2f2321d0727787992f2aa1b)
+    * [读英国《金融时报》学英语（七）​（套装10本](https://weread.qq.com/web/reader/dea32760813ab6cf6g012029)
+    * [读英国《金融时报》学英语（八）​（套装10本](https://weread.qq.com/web/reader/e9332030813ab6cf6g011579)
+    * [读英国《金融时报》学英语（九）​（套装10本](https://weread.qq.com/web/reader/ddb32990813ab6d55g015621)
+    * [读英国《金融时报》学英语（十）​（套装10本](https://weread.qq.com/web/reader/5be32fd0813ab6d55g0184c1)
+    * []()
   * 世界500强企业都在用系列
     * [世界500强企业都在用的国际英文合同大全集(第2版](https://weread.qq.com/web/reader/9d232610716ce9629d212a9)
     * [世界500强企业员工都在用的商务英语](https://weread.qq.com/web/reader/840326d0716ce92384072f8)
