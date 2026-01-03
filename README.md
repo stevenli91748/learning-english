@@ -69,7 +69,7 @@
 # 口语
 * [日常生活场景相关的英语口语材料---wikihow是世界上最大的“how-to”指南网站之一。你可以在网站上看到大量教你“怎么做某事”的文章，比如“how to wash amotorcycle”​“how to become a dentist”​“how to playbasketball”​“how to fish”等等。目前网站上有超过5.6万篇文章，几乎涵盖了所有你能想到的主题。而且更重要的一点是，这些文章绝大多数都是用英文写的，用词和句式都非常简单自然，是非常理想的学习日常生活表达的材料。我们可以用wikihow来准备口语话题。](https://www.wikihow.com/Main-Page)
 * [procon.org是一个非营利性质的公益网站，其成立目标是通过提供对常见争议话题的多方面观点，培养大众的批判性思维，让大众对争议性事件有更加清晰的认识](www.procon.org) 
-
+* [英语口语，自己学：英语口语基本结构](https://weread.qq.com/web/reader/e1632d90716a4b22e166904kc81322c012c81e728d9d180)
 * [社交英语口语，看这本就够（第2版）](https://weread.qq.com/web/reader/6a832ae07159fa3b6a8c477)
 * [说出美国人的每一天：英语会话8000句](https://weread.qq.com/web/reader/c6c326505e1a34c6c40bf73)
 * [我的第一本英语口语书](https://weread.qq.com/web/reader/64c327105c909164c6b7cf9kc81322c012c81e728d9d180)
@@ -253,6 +253,7 @@
     * [机械工程](https://weread.qq.com/web/reader/acb325c05a0029acbee64ce)
   * 旅游
     * [旅游英语一本就Go](https://weread.qq.com/web/reader/eb832280715bb6e4eb824d2)
+    * [出国旅游英语口语900句](https://weread.qq.com/web/reader/04432450719de75904422d2)
   * 医学
     * [临床常见疾病：医学英语文献阅读](https://weread.qq.com/web/reader/32a32ef0722d7ad732a7594)
     * [全国医学博士英语统考词汇巧战通关](https://weread.qq.com/web/reader/20f3243071916d9420fb98akc81322c012c81e728d9d180)
@@ -262,6 +263,8 @@
     * [设计专业英语](https://weread.qq.com/web/reader/e483206071801592e48f9ef)
   * 会计专业英语
     * [会计专业英语（第2版）](https://weread.qq.com/web/reader/bfc322f071e7486fbfca649)
+  * 物流专业英语
+    * [物流专业英语（第2版）](https://weread.qq.com/web/reader/21832790718b73fe2181958kc81322c012c81e728d9d180) 
   * 公共管理专业英语
     * [公共管理专业英语](https://weread.qq.com/web/reader/1f0324f0718628fd1f0dbefkc81322c012c81e728d9d180) 
 # 有用的参考
