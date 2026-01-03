@@ -199,8 +199,9 @@
 
 
 # 分类英语
-  * 北美麦唐娜生存英语
-    * [北美麦唐娜生存英语](https://weread.qq.com/web/reader/a0332470813ab7b22g010326kc81322c012c81e728d9d180) 
+  * 生活英语
+    * [北美麦唐娜生存英语](https://weread.qq.com/web/reader/a0332470813ab7b22g010326kc81322c012c81e728d9d180)
+    * [生活英语口语100主题](https://weread.qq.com/web/reader/c4432c2071c3a90cc44a922)
   * computer english
     * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
     * [计算机英语（第3版](https://weread.qq.com/web/reader/d9132a1072176e6cd917d1akc81322c012c81e728d9d180)
