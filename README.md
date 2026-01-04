@@ -92,6 +92,7 @@
 * [BBC Learn English](https://www.bbc.co.uk/learningenglish/chinese/features/media-english/ep-251215)
 
 # 阅读
+* [英语阅读技巧](https://weread.qq.com/web/reader/f44328c05e4d14f446abb8c)
 * [英语阅读技巧大全：用削枝剪叶法学英语阅读](https://weread.qq.com/web/reader/1603200071defc20160f3e8)
 * [英语阅读参考手册---以英语关联词和常用词为引子，综合讨论其多种语法功能和搭配用法](https://weread.qq.com/web/reader/507329c0813ab7c2dg017c5e)
 * [精读笔记应该怎么做](https://weread.qq.com/web/reader/86d32010813ab8187g013e18kc51323901dc51ce410c121b)
