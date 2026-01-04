@@ -126,7 +126,7 @@
 * [新东方英语写作](http://yingyu.xdf.cn/xz/)
 * [很多写作阅读的书](https://www.tianfateng.cn/)
 * [六個階段的練習，寫出漂亮的英文句子](https://barshai.org/thoughts/how-to-practice-writing-english-sentences/)
-
+* [商务英语写作王](https://weread.qq.com/web/reader/6ef32270715af0f66ef40f7kc81322c012c81e728d9d180)
 * [英语写作我不怕：与美国学生同步高效学写作](https://weread.qq.com/web/reader/a4632f7071f5e26ca46b99d)
 * [抄写英语的奇迹](https://weread.qq.com/web/reader/df232c10813aba06dg013880kc81322c012c81e728d9d180)
 * [英语专业八级写作特训](https://weread.qq.com/web/reader/63e32220715ce91b63e7f32kc81322c012c81e728d9d180)
