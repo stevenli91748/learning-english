@@ -136,6 +136,7 @@
 * [顾家北手把手教你雅思写作](https://weread.qq.com/web/reader/54132100813ab735fg016ce0kc81322c012c81e728d9d180)
 * [精进写作：如何成为一名写作高手](https://weread.qq.com/web/reader/e2a32f80723ec976e2a8c40kc81322c012c81e728d9d180)
 * [考研英语高分写作](https://weread.qq.com/web/reader/c2832d20717f446bc28d2d6)
+* [考研英语高分写作（2026）](https://weread.qq.com/web/reader/1e432000813ab9e48g0168dakc81322c012c81e728d9d180)
 
 
 * 词汇
