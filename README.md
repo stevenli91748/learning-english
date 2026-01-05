@@ -150,6 +150,7 @@
     * [当代英语核心词汇：高级6000词（当代英语核心词汇](https://weread.qq.com/web/reader/00732f70813ab69c1g019314)
     * [考博英语词汇10000例精解](https://weread.qq.com/web/reader/38c3226071916d9e38ca279kc81322c012c81e728d9d180)
     * [情景分类记忆18000英语单词](https://weread.qq.com/web/reader/287327f071c95ddb287d84bkc81322c012c81e728d9d180)
+    * [100个句子记完2000个中考单词+300个句子攻克中考英语语法](https://weread.qq.com/web/reader/84532fe0813ab8fa3g011125kc81322c012c81e728d9d180) 
     * [100个句子记完3500个高考单词 同步学练测](https://weread.qq.com/web/reader/92432c10813ab89f8g01222akc81322c012c81e728d9d180)
     * [100个句子记完7000个托福单词](https://weread.qq.com/web/reader/9da32560715aae439daedd7kc81322c012c81e728d9d180)
   * [英语词汇速记大全--新东方](https://weread.qq.com/web/reader/55232430715bb6ec5529f2d)
