@@ -224,6 +224,7 @@
     * [大学英语实用写作教程（科技类）](https://weread.qq.com/web/reader/a2a3282071f558d8a2ad592kc81322c012c81e728d9d180)
   * 商务英语
     * [新手学外贸英语一本通（全新版）](https://weread.qq.com/web/reader/abf32640726e3ae7abf36c3)
+    * [外贸英语语句汇编](https://weread.qq.com/web/reader/86a322507159363286a438a)
     * [商务英语全能王](https://weread.qq.com/web/reader/1f932ed0715af0f41f9aa99)
     * [商务英语10000单词](https://weread.qq.com/web/reader/a3c3252071ede7fda3ca54a) 
   * 新闻英语
@@ -256,10 +257,13 @@
     * [英文E-mail应用大全：看模板学写邮件，看这本够了](https://weread.qq.com/web/reader/60a324f071defc0460aadc3)
   * 舌尖上的英语
     * [舌尖上的英语（第2版）](https://weread.qq.com/web/reader/1ed32930718600541edece4)
+    * [超实用英语口语：外出就餐篇](https://weread.qq.com/web/reader/864325c0813ab88aag0191dc)
   * 酒店英语
-    * [酒店英语](https://weread.qq.com/web/reader/9f4320707186dc0d9f4ad16kc81322c012c81e728d9d180) 
+    * [酒店英语](https://weread.qq.com/web/reader/9f4320707186dc0d9f4ad16kc81322c012c81e728d9d180)
+    * [酒店服务业英语 看这本就够 （第2版）](https://weread.qq.com/web/reader/95832db0716ce91d9589367)
   * 汽车工程专业英语
-    * [汽车工程专业英语](https://weread.qq.com/web/reader/27f320405bcdbe27f533291) 
+    * [汽车工程专业英语](https://weread.qq.com/web/reader/27f320405bcdbe27f533291)
+    * [图解汽车专业英语](https://weread.qq.com/web/reader/8ad3213071c965b08adac75)
   * 机械工程
     * [机械工程](https://weread.qq.com/web/reader/acb325c05a0029acbee64ce)
   * 旅游
