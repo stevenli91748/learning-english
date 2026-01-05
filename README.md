@@ -213,6 +213,9 @@
     * [生活英语口语100主题](https://weread.qq.com/web/reader/c4432c2071c3a90cc44a922)
     * [开口说英语（休闲篇）](https://weread.qq.com/web/reader/51332880715aadff513107a)
     * [美国生活英语](https://weread.qq.com/web/reader/0f432510715bb7760f4dc4dkc81322c012c81e728d9d180)
+    * [出国英语口语 : 吃住行游玩一本全](https://weread.qq.com/web/reader/fa4326a05c5070fa46ec181)
+    * [开口说英语（旅游篇）](https://weread.qq.com/web/reader/d9232c30715aadfbd92ec4c)
+ 
   * computer english
     * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
     * [计算机英语（第3版](https://weread.qq.com/web/reader/d9132a1072176e6cd917d1akc81322c012c81e728d9d180)
