@@ -40,7 +40,7 @@
 * [零基础学好英语语法2](https://weread.qq.com/web/reader/02b32bd071c95e7402b4637k341323f021e34173cb3824c)
 * [100个句子记完2000个中考单词+300个句子攻克中考英语语法](https://weread.qq.com/web/reader/84532fe0813ab8fa3g011125kc81322c012c81e728d9d180)
 * [高考英语语法强化训练1000题](https://weread.qq.com/web/reader/e9632fc0715aaea4e96acc2)
-* [真希望老师这样教英语句型](https://weread.qq.com/web/reader/c7432b6071593456c740800)
+
 * [高考英语语法精讲精练（备战2026高考）](https://weread.qq.com/web/reader/cbc324505e3edbcbcb445f5k977321c02529778d5d2116b)
 * 名师英语语法课堂
   * [名师英语语法课堂：介词](https://weread.qq.com/web/reader/1ba32d80721821f91bad7f4kc81322c012c81e728d9d180)
@@ -176,6 +176,7 @@
 
   
 * 英语句型
+  * [真希望老师这样教英语句型](https://weread.qq.com/web/reader/c7432b6071593456c740800) 
   * [英语句型](https://weread.qq.com/web/reader/c7432b6071593456c740800)
   * [286个英语句型](https://weread.qq.com/web/reader/e4532cb05e19e8e4524a00a)
   * [六级必用500句](https://weread.qq.com/web/reader/800323e07158c8e0800fd55ka87322c014a87ff679a21ea)
