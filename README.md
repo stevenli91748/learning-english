@@ -35,6 +35,7 @@
 * [美国的故事（七册套装）](https://weread.qq.com/web/reader/d9f326d05e224bd9ff15db9k697324802676974ce5aceab)
 
 # 语法
+* [英语语法要素](https://weread.qq.com/web/reader/f7132c4071985093f71dcebkc81322c012c81e728d9d180)
 * [张道真英语语法](https://weread.qq.com/web/reader/93b321c0813ab75c4g01121c)
 * [英语语法分解大全](https://weread.qq.com/web/reader/d8732d007260a549d87183bkc81322c012c81e728d9d180)
 * [零基础学好英语语法2](https://weread.qq.com/web/reader/02b32bd071c95e7402b4637k341323f021e34173cb3824c)
@@ -185,6 +186,8 @@
   * [英语作文万能句子大全](http://xiaoxue.xdf.cn/201412/10175458.html)
   * [大学英语六级经典必背500句](https://weread.qq.com/web/reader/800323e07158c8e0800fd55kc81322c012c81e728d9d180)
 
+* 格言
+  * [读格言，练英语](https://weread.qq.com/web/reader/b1e3246071649ae5b1e2395kc4c329b011c4ca4238a0201) 
 
 * 英语短语
   * [初中英语短语整理：93个“be+...”短语分类汇总](http://yingyu.xdf.cn/202004/11053189_2.html) 
@@ -207,6 +210,7 @@
     * [北美麦唐娜生存英语](https://weread.qq.com/web/reader/a0332470813ab7b22g010326kc81322c012c81e728d9d180)
     * [生活英语口语100主题](https://weread.qq.com/web/reader/c4432c2071c3a90cc44a922)
     * [开口说英语（休闲篇）](https://weread.qq.com/web/reader/51332880715aadff513107a)
+    * [美国生活英语](https://weread.qq.com/web/reader/0f432510715bb7760f4dc4dkc81322c012c81e728d9d180)
   * computer english
     * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
     * [计算机英语（第3版](https://weread.qq.com/web/reader/d9132a1072176e6cd917d1akc81322c012c81e728d9d180)
