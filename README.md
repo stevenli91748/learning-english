@@ -262,6 +262,8 @@
   * 医学
     * [临床常见疾病：医学英语文献阅读](https://weread.qq.com/web/reader/32a32ef0722d7ad732a7594)
     * [全国医学博士英语统考词汇巧战通关](https://weread.qq.com/web/reader/20f3243071916d9420fb98akc81322c012c81e728d9d180)
+  * 警官实用英语口语
+    * [警官实用英语口语](https://weread.qq.com/web/reader/820327207277b15f8205f08kc81322c012c81e728d9d180) 
   * 服装
     * [实用服装专业英语（第3版）](https://weread.qq.com/web/reader/5fd3298071e8776e5fddc3e)
   * 设计专业英语
