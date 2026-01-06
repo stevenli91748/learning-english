@@ -214,7 +214,7 @@
     * [美国生活英语](https://weread.qq.com/web/reader/0f432510715bb7760f4dc4dkc81322c012c81e728d9d180)
     * [出国英语口语 : 吃住行游玩一本全](https://weread.qq.com/web/reader/fa4326a05c5070fa46ec181)
     * [开口说英语（旅游篇）](https://weread.qq.com/web/reader/d9232c30715aadfbd92ec4c)
- 
+    * [超实用英语口语：人际交往篇](https://weread.qq.com/web/reader/9af32af0813ab88abg017ccf)
   * computer english
     * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
     * [计算机英语（第3版](https://weread.qq.com/web/reader/d9132a1072176e6cd917d1akc81322c012c81e728d9d180)
@@ -273,6 +273,7 @@
   * 旅游
     * [旅游英语一本就Go](https://weread.qq.com/web/reader/eb832280715bb6e4eb824d2)
     * [出国旅游英语口语900句](https://weread.qq.com/web/reader/04432450719de75904422d2)
+    * [超实用英语口语：旅游篇](https://weread.qq.com/web/reader/7e132450813ab88aag012237)
   * 医学
     * [临床常见疾病：医学英语文献阅读](https://weread.qq.com/web/reader/32a32ef0722d7ad732a7594)
     * [全国医学博士英语统考词汇巧战通关](https://weread.qq.com/web/reader/20f3243071916d9420fb98akc81322c012c81e728d9d180)
