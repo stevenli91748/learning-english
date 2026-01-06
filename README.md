@@ -215,6 +215,8 @@
     * [出国英语口语 : 吃住行游玩一本全](https://weread.qq.com/web/reader/fa4326a05c5070fa46ec181)
     * [开口说英语（旅游篇）](https://weread.qq.com/web/reader/d9232c30715aadfbd92ec4c)
     * [超实用英语口语：人际交往篇](https://weread.qq.com/web/reader/9af32af0813ab88abg017ccf)
+  * 学习工作篇
+    * [超实用英语口语：学习工作篇](https://weread.qq.com/web/reader/ebf32cf0813ab88aag014781) 
   * computer english
     * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
     * [计算机英语（第3版](https://weread.qq.com/web/reader/d9132a1072176e6cd917d1akc81322c012c81e728d9d180)
@@ -277,6 +279,7 @@
   * 医学
     * [临床常见疾病：医学英语文献阅读](https://weread.qq.com/web/reader/32a32ef0722d7ad732a7594)
     * [全国医学博士英语统考词汇巧战通关](https://weread.qq.com/web/reader/20f3243071916d9420fb98akc81322c012c81e728d9d180)
+    * [超实用英语口语：生病就医&公共服务篇](https://weread.qq.com/web/reader/880324c0813ab88aag010a13)
   * 警官实用英语口语
     * [警官实用英语口语](https://weread.qq.com/web/reader/820327207277b15f8205f08kc81322c012c81e728d9d180) 
   * 服装
