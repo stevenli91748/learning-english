@@ -277,6 +277,7 @@
   * 汽车工程专业英语
     * [汽车工程专业英语](https://weread.qq.com/web/reader/27f320405bcdbe27f533291)
     * [图解汽车专业英语](https://weread.qq.com/web/reader/8ad3213071c965b08adac75)
+    * [美国生活英语：汽车与旅行](https://weread.qq.com/web/reader/1ed32860715bb77e1ed4f9c)
   * 机械工程
     * [机械工程](https://weread.qq.com/web/reader/acb325c05a0029acbee64ce)
   * 旅游
