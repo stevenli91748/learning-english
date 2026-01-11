@@ -213,8 +213,14 @@
     * [开口说英语（休闲篇）](https://weread.qq.com/web/reader/51332880715aadff513107a)
     * [美国生活英语](https://weread.qq.com/web/reader/0f432510715bb7760f4dc4dkc81322c012c81e728d9d180)
     * [出国英语口语 : 吃住行游玩一本全](https://weread.qq.com/web/reader/fa4326a05c5070fa46ec181)
-    * [开口说英语（旅游篇）](https://weread.qq.com/web/reader/d9232c30715aadfbd92ec4c)
+    * [超实用英语口语：购物消费篇](https://weread.qq.com/web/reader/a9c32d60813ab88a5g0178a0)
     * [超实用英语口语：人际交往篇](https://weread.qq.com/web/reader/9af32af0813ab88abg017ccf)
+    * [超实用英语口语：休闲娱乐篇](https://weread.qq.com/web/reader/8f432310813ab88abg010c61)
+    * [美国生活英语：利用各种场所](https://weread.qq.com/web/reader/fa6326f0715bb77afa6a5e5kc81322c012c81e728d9d180)
+    * [美国生活英语：娱乐与假期](https://weread.qq.com/web/reader/63c32e70715bb78263c5e92)
+    * [美国生活英语：校园生活与交流](https://weread.qq.com/web/reader/70c32ef0715bb78070c1458kc81322c012c81e728d9d180)
+  * 情感态度篇
+    * [超实用英语口语：情感态度篇](https://weread.qq.com/web/reader/62c32a00813ab88aag011c32) 
   * 学习工作篇
     * [超实用英语口语：学习工作篇](https://weread.qq.com/web/reader/ebf32cf0813ab88aag014781) 
   * computer english
@@ -242,7 +248,8 @@
   * 国际航运与港口英语
     * [国际航运与港口英语](https://weread.qq.com/web/reader/d9132a00719ed24bd91ebb3) 
   * 城市轨道交通专业英语
-    * [城市轨道交通专业英语](https://weread.qq.com/web/reader/27a3209071e426e227ae7a9kc81322c012c81e728d9d180) 
+    * [城市轨道交通专业英语](https://weread.qq.com/web/reader/27a3209071e426e227ae7a9kc81322c012c81e728d9d180)
+    * [超实用英语口语：交通出行篇](https://weread.qq.com/web/reader/ccd32ad0813ab88aag01629b)
   * 金融英语
     * [读英国《金融时报》学英语（一）​（套装10本）](https://weread.qq.com/web/reader/6833204071965c966834754)
     * [读英国《金融时报》学英语（二）​（套装10本）](https://weread.qq.com/web/reader/bdd3284071965c94bdddb3c)
@@ -276,9 +283,11 @@
     * [旅游英语一本就Go](https://weread.qq.com/web/reader/eb832280715bb6e4eb824d2)
     * [出国旅游英语口语900句](https://weread.qq.com/web/reader/04432450719de75904422d2)
     * [超实用英语口语：旅游篇](https://weread.qq.com/web/reader/7e132450813ab88aag012237)
+    * [开口说英语（旅游篇）](https://weread.qq.com/web/reader/d9232c30715aadfbd92ec4c) 
   * 医学
     * [临床常见疾病：医学英语文献阅读](https://weread.qq.com/web/reader/32a32ef0722d7ad732a7594)
     * [全国医学博士英语统考词汇巧战通关](https://weread.qq.com/web/reader/20f3243071916d9420fb98akc81322c012c81e728d9d180)
+    * [超实用英语口语：生病就医&公共服务篇](https://weread.qq.com/web/reader/880324c0813ab88aag010a13)
     * [超实用英语口语：生病就医&公共服务篇](https://weread.qq.com/web/reader/880324c0813ab88aag010a13)
   * 警官实用英语口语
     * [警官实用英语口语](https://weread.qq.com/web/reader/820327207277b15f8205f08kc81322c012c81e728d9d180) 
