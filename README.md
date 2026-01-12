@@ -241,7 +241,8 @@
     * [商务英语全能王](https://weread.qq.com/web/reader/1f932ed0715af0f41f9aa99)
     * [商务英语10000单词](https://weread.qq.com/web/reader/a3c3252071ede7fda3ca54a) 
   * 新闻英语
-    * []() 
+    * [新闻英语导读](https://weread.qq.com/web/reader/78732620719ed39b787b4a7kc81322c012c81e728d9d180)
+    * [用英语新闻，轻松学会英语听力](https://weread.qq.com/web/reader/b1232e107198e316b126c8akc81322c012c81e728d9d180)
   * 法律英语
     * [法律英语（第五版）](https://weread.qq.com/web/reader/b9c32240718b7060b9cd879) 
   * 天气英语
