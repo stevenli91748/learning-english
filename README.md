@@ -139,7 +139,7 @@
 * [精进写作：如何成为一名写作高手](https://weread.qq.com/web/reader/e2a32f80723ec976e2a8c40kc81322c012c81e728d9d180)
 * [考研英语高分写作](https://weread.qq.com/web/reader/c2832d20717f446bc28d2d6)
 * [考研英语高分写作（2026）](https://weread.qq.com/web/reader/1e432000813ab9e48g0168dakc81322c012c81e728d9d180)
-
+* [：大学英语四六级写作特训](https://weread.qq.com/web/reader/667321e0715bb738667e8bckc81322c012c81e728d9d180)
 
 * 词汇
   * 单词词汇 
@@ -219,6 +219,7 @@
     * [美国生活英语：利用各种场所](https://weread.qq.com/web/reader/fa6326f0715bb77afa6a5e5kc81322c012c81e728d9d180)
     * [美国生活英语：娱乐与假期](https://weread.qq.com/web/reader/63c32e70715bb78263c5e92)
     * [美国生活英语：校园生活与交流](https://weread.qq.com/web/reader/70c32ef0715bb78070c1458kc81322c012c81e728d9d180)
+    * [美国生活英语：开始新的生活](https://weread.qq.com/web/reader/bc2329f0715bb778bc23234)
   * 情感态度篇
     * [超实用英语口语：情感态度篇](https://weread.qq.com/web/reader/62c32a00813ab88aag011c32) 
   * 学习工作篇
@@ -271,6 +272,7 @@
   * 舌尖上的英语
     * [舌尖上的英语（第2版）](https://weread.qq.com/web/reader/1ed32930718600541edece4)
     * [超实用英语口语：外出就餐篇](https://weread.qq.com/web/reader/864325c0813ab88aag0191dc)
+    * [美国生活英语：美食与购物](https://weread.qq.com/web/reader/5cd32500715bb77c5cd06eckc81322c012c81e728d9d180)
   * 酒店英语
     * [酒店英语](https://weread.qq.com/web/reader/9f4320707186dc0d9f4ad16kc81322c012c81e728d9d180)
     * [酒店服务业英语 看这本就够 （第2版）](https://weread.qq.com/web/reader/95832db0716ce91d9589367)
@@ -289,7 +291,7 @@
     * [临床常见疾病：医学英语文献阅读](https://weread.qq.com/web/reader/32a32ef0722d7ad732a7594)
     * [全国医学博士英语统考词汇巧战通关](https://weread.qq.com/web/reader/20f3243071916d9420fb98akc81322c012c81e728d9d180)
     * [超实用英语口语：生病就医&公共服务篇](https://weread.qq.com/web/reader/880324c0813ab88aag010a13)
-    * [超实用英语口语：生病就医&公共服务篇](https://weread.qq.com/web/reader/880324c0813ab88aag010a13)
+    
   * 警官实用英语口语
     * [警官实用英语口语](https://weread.qq.com/web/reader/820327207277b15f8205f08kc81322c012c81e728d9d180) 
   * 服装
