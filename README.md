@@ -119,7 +119,14 @@
   * [找对书籍和阅读方式，你也能轻松「入坑」英文原著](https://sspai.com/post/58325)
   * [六级晨读美文100篇](https://weread.qq.com/web/reader/3c432a60715aae6b3c4cdeakc81322c012c81e728d9d180)
   * [每天读点好英文：人生没有太晚的开始](https://weread.qq.com/web/reader/36f32a105c887a36ff41c55kc81322c012c81e728d9d180)
-  * 
+  * [每天背点好英文：精选美文50篇 第2版](https://weread.qq.com/web/reader/e5c323405e19e5e5ca6a0ab)
+  * [每天读点好英文：精选书信美文](https://weread.qq.com/web/reader/fff32060813ab71f0g010757)
+  * [每天读点好英文：精选爱情美文](https://weread.qq.com/web/reader/88f32300813ab71f3g010bb8)
+  * [每天读点好英文：精选励志美文](https://weread.qq.com/web/reader/e1b32140813ab71f2g013193)
+  * [每天读点好英文：精选名著美文](https://weread.qq.com/web/reader/2be32df0813ab71edg0181bc)
+  * [每天读点好英文：精选亲情美文](https://weread.qq.com/web/reader/01532460813ab71ecg019ab3)
+  * [每天读点好英文：精选友情美文](https://weread.qq.com/web/reader/8e932e40813ab71eeg0103d3)
+  * []()
 
 
 # 写作
