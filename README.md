@@ -132,6 +132,7 @@
 
 
 # 写作
+* [学习英文写作分成六步](https://weread.qq.com/web/reader/a0332470813ab7b22g010326k65132ca01b6512bd43d90e3)
 * [ 几本对写作有帮助的工具书](https://weread.qq.com/web/reader/86d32010813ab8187g013e18k72b327f023972b32a1f7e2d)
 * [2025 精选：5个超实用英语作文网站推荐](https://www.wukongsch.com/blog/zh/english-composition-website-post-29948/)
 * [新大纲英语作文万能模板](https://weread.qq.com/web/reader/f6b324f05a06edf6b1b30df)
@@ -148,7 +149,7 @@
 * [精进写作：如何成为一名写作高手](https://weread.qq.com/web/reader/e2a32f80723ec976e2a8c40kc81322c012c81e728d9d180)
 * [考研英语高分写作](https://weread.qq.com/web/reader/c2832d20717f446bc28d2d6)
 * [考研英语高分写作（2026）](https://weread.qq.com/web/reader/1e432000813ab9e48g0168dakc81322c012c81e728d9d180)
-* [：大学英语四六级写作特训](https://weread.qq.com/web/reader/667321e0715bb738667e8bckc81322c012c81e728d9d180)
+* [大学英语四六级写作特训](https://weread.qq.com/web/reader/667321e0715bb738667e8bckc81322c012c81e728d9d180)
 
 * 词汇
   * 
