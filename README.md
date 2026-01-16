@@ -235,6 +235,7 @@
   * 学习工作篇
     * [超实用英语口语：学习工作篇](https://weread.qq.com/web/reader/ebf32cf0813ab88aag014781) 
   * computer english
+    * [Software Engineer Daily](https://softwareengineeringdaily.com/) 
     * [程序员英语单词册](https://www.kancloud.cn/haixu926611/study-english/112096)
     * [计算机英语（第3版](https://weread.qq.com/web/reader/d9132a1072176e6cd917d1akc81322c012c81e728d9d180)
     * [计算机专业英语（第2版）](https://weread.qq.com/web/reader/eb032070717d31a9eb0a105)
