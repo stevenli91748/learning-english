@@ -6,6 +6,9 @@
 [有道写作批改](https://write.youdao.com/#/home)|[6個超強免費AI英文寫作批改網站推薦](https://clairesenglish.com/ai-writing/)|
 ---|---|
 
+[英语学习资源导航](https://en.knowledgefxg.com/)|
+---|
+
 
 # 在线书籍
 
