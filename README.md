@@ -260,7 +260,8 @@
     * [新闻英语导读](https://weread.qq.com/web/reader/78732620719ed39b787b4a7kc81322c012c81e728d9d180)
     * [用英语新闻，轻松学会英语听力](https://weread.qq.com/web/reader/b1232e107198e316b126c8akc81322c012c81e728d9d180)
   * 法律英语
-    * [法律英语（第五版）](https://weread.qq.com/web/reader/b9c32240718b7060b9cd879) 
+    * [法律英语（第五版）](https://weread.qq.com/web/reader/b9c32240718b7060b9cd879)
+    * [法律经贸英语Q&A：疑难详解与翻译](https://weread.qq.com/web/reader/c2032b40723ebfd0c200c33kc81322c012c81e728d9d180)
   * 天气英语
     * [天气谚语在长期天气预报中的应用（英文版）](https://weread.qq.com/web/reader/d3e32030813ab9672g0108e1) 
   * 国际航运与港口英语
