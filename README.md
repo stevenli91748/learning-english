@@ -41,6 +41,7 @@
 
 # 语法
 * [英文疑难详解](https://weread.qq.com/web/reader/c9e324e071df37dfc9ec335)
+* [英文疑难详解续篇](https://weread.qq.com/web/reader/0da329d071df37e10da7549)
 * [英语语法要素](https://weread.qq.com/web/reader/f7132c4071985093f71dcebkc81322c012c81e728d9d180)
 * [张道真英语语法](https://weread.qq.com/web/reader/93b321c0813ab75c4g01121c)
 * [英语语法分解大全](https://weread.qq.com/web/reader/d8732d007260a549d87183bkc81322c012c81e728d9d180)
