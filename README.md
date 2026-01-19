@@ -156,7 +156,7 @@
 * [大学英语四六级写作特训](https://weread.qq.com/web/reader/667321e0715bb738667e8bckc81322c012c81e728d9d180)
 
 * 词汇
-  * 
+  * [【英语单词词汇笔记本】把英语常用常考的单词分100个类别：主要针对阅读、翻译、作文、词汇量](https://blog.csdn.net/liu17234050/article/details/110206732)
   * 单词词汇 
     * [把你的词汇用起来](https://weread.qq.com/web/reader/8b832d605e1df98b8be6842)
     * [当代英语核心词汇：初级3000词（当代英语核心词汇）](https://weread.qq.com/web/reader/fb232de0813ab69c1g010aa6)
