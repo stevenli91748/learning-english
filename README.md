@@ -141,6 +141,12 @@
 * [2025 精选：5个超实用英语作文网站推荐](https://www.wukongsch.com/blog/zh/english-composition-website-post-29948/)
 * [新大纲英语作文万能模板](https://weread.qq.com/web/reader/f6b324f05a06edf6b1b30df)
 * [新东方英语写作](http://yingyu.xdf.cn/xz/)
+* [英语写作——常用的 过度词-连接词](https://liuxinlei.blog.csdn.net/article/details/104575751)
+* [教你如何写四级高分作文！！！大学英语四级常考各种类型作文模板-范文](https://liuxinlei.blog.csdn.net/article/details/109145631)
+* [英语——常考固定搭配【一百零八将】](https://liuxinlei.blog.csdn.net/article/details/104578762)
+* [英语写作——必备的200条句子【写作必备！！！】](https://liuxinlei.blog.csdn.net/article/details/104571498)
+* [100句常用英语万能句子——【写作必备】](https://liuxinlei.blog.csdn.net/article/details/104575233)
+
 * [很多写作阅读的书](https://www.tianfateng.cn/)
 * [六個階段的練習，寫出漂亮的英文句子](https://barshai.org/thoughts/how-to-practice-writing-english-sentences/)
 * [商务英语写作王](https://weread.qq.com/web/reader/6ef32270715af0f66ef40f7kc81322c012c81e728d9d180)
