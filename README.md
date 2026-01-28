@@ -137,6 +137,7 @@
 
 # 写作
 * [学习英文写作分成六步](https://weread.qq.com/web/reader/a0332470813ab7b22g010326k65132ca01b6512bd43d90e3)
+* [自学英文寫作​](https://barshai.org/learn/fundamental/writing/)
 * [ 几本对写作有帮助的工具书](https://weread.qq.com/web/reader/86d32010813ab8187g013e18k72b327f023972b32a1f7e2d)
 * [2025 精选：5个超实用英语作文网站推荐](https://www.wukongsch.com/blog/zh/english-composition-website-post-29948/)
 * [新大纲英语作文万能模板](https://weread.qq.com/web/reader/f6b324f05a06edf6b1b30df)
