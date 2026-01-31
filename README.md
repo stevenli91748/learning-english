@@ -1,5 +1,7 @@
 # learning-english
 
+[流媒体生存指南：从无需付费到私人流媒体影院（全平台通关｜ Tubi / Pluto TV / Popcornflix / Plex｜无需付费的海外正版影视平台全解析](https://www.youtube.com/watch?v=K0EU8HT10tM)
+
 [英语写作语法和拼写检查神器---Grammarly](https://www.grammarly.com/)|[英语句子用例搜索引擎](https://ludwig.guru/)|[批改网  id： gzpengli psw: gz19731108](https://www.pigai.org/index.php?c=write&f2=login)|
 ---|---|---|
 
