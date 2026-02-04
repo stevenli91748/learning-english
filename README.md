@@ -89,6 +89,7 @@
 * [开口说英语（旅游篇）](https://weread.qq.com/web/reader/d9232c30715aadfbd92ec4c)
 
 # 听力
+* [一起读懂美国新闻](https://www.youtube.com/@English_News)
 * [1个习惯带你直接听懂英文，让你英文听力像母语一样强！（深度解析）](https://www.youtube.com/watch?v=t-kOwCmtcmA)
 * [Prof. Fang教你如何学英文频道---史丹佛流體力學博士](https://www.youtube.com/@paofufang/videos)
 * [怎么在一个月内让英语听力有明显的提高？](https://www.zhihu.com/question/24706380/answer/387403508?utm_source=wechat_session&utm_medium=social&utm_oi=1119162453489045504)
