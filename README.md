@@ -42,6 +42,7 @@
 * [美国的故事（七册套装）](https://weread.qq.com/web/reader/d9f326d05e224bd9ff15db9k697324802676974ce5aceab)
 
 # 语法
+* [28天学会英语语法](https://weread.qq.com/web/reader/ae932ed071defc0aae94434kc81322c012c81e728d9d180)
 * [英文疑难详解](https://weread.qq.com/web/reader/c9e324e071df37dfc9ec335)
 * [英文疑难详解续篇](https://weread.qq.com/web/reader/0da329d071df37e10da7549)
 * [英语语法要素](https://weread.qq.com/web/reader/f7132c4071985093f71dcebkc81322c012c81e728d9d180)
