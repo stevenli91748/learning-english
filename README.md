@@ -235,6 +235,10 @@
 
 
 # 分类英语
+  * 用英文说中国故事
+    * [用英文讲好中国故事（共5册）](https://weread.qq.com/web/reader/54b32580813abaed6g010d8akc81322c012c81e728d9d180)
+    * [中国戏剧故事（英文版）](https://weread.qq.com/web/reader/4a232950716c4e604a2f158kc81322c012c81e728d9d180)
+    * [中国神话故事（英文版）](https://weread.qq.com/web/reader/ba732840716c4e54ba7998e)
   * 生活英语
     * [北美麦唐娜生存英语](https://weread.qq.com/web/reader/a0332470813ab7b22g010326kc81322c012c81e728d9d180)
     * [生活英语口语100主题](https://weread.qq.com/web/reader/c4432c2071c3a90cc44a922)
@@ -265,6 +269,7 @@
     * [科技英语论文阅读与写作](https://weread.qq.com/web/reader/3ff32b80813ab8e1dg010040kc81322c012c81e728d9d180)
     * [大学英语实用写作教程（科技类）](https://weread.qq.com/web/reader/a2a3282071f558d8a2ad592kc81322c012c81e728d9d180)
   * 商务英语
+    * [外贸英语函电：从基础到实践](https://weread.qq.com/web/reader/b08322f05a5c86b081f3ac3) 
     * [新手学外贸英语一本通（全新版）](https://weread.qq.com/web/reader/abf32640726e3ae7abf36c3)
     * [外贸英语语句汇编](https://weread.qq.com/web/reader/86a322507159363286a438a)
     * [商务英语全能王](https://weread.qq.com/web/reader/1f932ed0715af0f41f9aa99)
