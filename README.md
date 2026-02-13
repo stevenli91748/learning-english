@@ -147,17 +147,15 @@
 * [自学英文寫作​](https://barshai.org/learn/fundamental/writing/)
 * [ 几本对写作有帮助的工具书](https://weread.qq.com/web/reader/86d32010813ab8187g013e18k72b327f023972b32a1f7e2d)
 * [2025 精选：5个超实用英语作文网站推荐](https://www.wukongsch.com/blog/zh/english-composition-website-post-29948/)
-* [新大纲英语作文万能模板](https://weread.qq.com/web/reader/f6b324f05a06edf6b1b30df)
+
 * [新东方英语写作](http://yingyu.xdf.cn/xz/)
 
-* [教你如何写四级高分作文！！！大学英语四级常考各种类型作文模板-范文](https://liuxinlei.blog.csdn.net/article/details/109145631)
+
 * [英语——常考固定搭配【一百零八将】](https://liuxinlei.blog.csdn.net/article/details/104578762)
 * [很多写作阅读的书](https://www.tianfateng.cn/)
 * [商务英语写作王](https://weread.qq.com/web/reader/6ef32270715af0f66ef40f7kc81322c012c81e728d9d180)
 * [英语写作我不怕：与美国学生同步高效学写作](https://weread.qq.com/web/reader/a4632f7071f5e26ca46b99d)
-* [抄写英语的奇迹](https://weread.qq.com/web/reader/df232c10813aba06dg013880kc81322c012c81e728d9d180)
-* [英语专业八级写作特训](https://weread.qq.com/web/reader/63e32220715ce91b63e7f32kc81322c012c81e728d9d180)
-* [一学就会的实用英语六级写作模板](https://weread.qq.com/web/reader/b0a3264071649baeb0ad8d2)
+
 * [英文科技论文写作的100个常见错误](https://weread.qq.com/web/reader/65a32100719db10765a10a9kecc32f3013eccbc87e4b62e)
 * [顾家北手把手教你雅思写作](https://weread.qq.com/web/reader/54132100813ab735fg016ce0kc81322c012c81e728d9d180)
 * [精进写作：如何成为一名写作高手](https://weread.qq.com/web/reader/e2a32f80723ec976e2a8c40kc81322c012c81e728d9d180)
@@ -225,13 +223,22 @@
     * [大学英语六级经典必背500句](https://weread.qq.com/web/reader/800323e07158c8e0800fd55kc81322c012c81e728d9d180)
     * [六個階段的練習，寫出漂亮的英文句子](https://barshai.org/thoughts/how-to-practice-writing-english-sentences/)
 
+  * 背诵美文
+    * [抄写英语的奇迹](https://weread.qq.com/web/reader/df232c10813aba06dg013880kc81322c012c81e728d9d180)
+   
+
+
+
 * 第二步：英语过渡句的使用
     * [英语写作——常用的 过度词-连接词](https://liuxinlei.blog.csdn.net/article/details/104575751)
 
 * 第三步：英语文章的几大分类
 
 * 第四步：几大类文章写作的基本结构
-
+    * [新大纲英语作文万能模板](https://weread.qq.com/web/reader/f6b324f05a06edf6b1b30df)
+    * [教你如何写四级高分作文！！！大学英语四级常考各种类型作文模板-范文](https://liuxinlei.blog.csdn.net/article/details/109145631)
+    * [英语专业八级写作特训](https://weread.qq.com/web/reader/63e32220715ce91b63e7f32kc81322c012c81e728d9d180)
+    * [一学就会的实用英语六级写作模板](https://weread.qq.com/web/reader/b0a3264071649baeb0ad8d2)
 
 
 
