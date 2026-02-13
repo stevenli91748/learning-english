@@ -143,20 +143,16 @@
 
 # 写作
 * [学习英文写作分成六步](https://weread.qq.com/web/reader/a0332470813ab7b22g010326k65132ca01b6512bd43d90e3)
-* [六個階段的練習，寫出漂亮的英文句子](https://barshai.org/thoughts/how-to-practice-writing-english-sentences/)
+
 * [自学英文寫作​](https://barshai.org/learn/fundamental/writing/)
 * [ 几本对写作有帮助的工具书](https://weread.qq.com/web/reader/86d32010813ab8187g013e18k72b327f023972b32a1f7e2d)
 * [2025 精选：5个超实用英语作文网站推荐](https://www.wukongsch.com/blog/zh/english-composition-website-post-29948/)
 * [新大纲英语作文万能模板](https://weread.qq.com/web/reader/f6b324f05a06edf6b1b30df)
 * [新东方英语写作](http://yingyu.xdf.cn/xz/)
-* [英语写作——常用的 过度词-连接词](https://liuxinlei.blog.csdn.net/article/details/104575751)
+
 * [教你如何写四级高分作文！！！大学英语四级常考各种类型作文模板-范文](https://liuxinlei.blog.csdn.net/article/details/109145631)
 * [英语——常考固定搭配【一百零八将】](https://liuxinlei.blog.csdn.net/article/details/104578762)
-* [英语写作——必备的200条句子【写作必备！！！】](https://liuxinlei.blog.csdn.net/article/details/104571498)
-* [100句常用英语万能句子——【写作必备】](https://liuxinlei.blog.csdn.net/article/details/104575233)
-
 * [很多写作阅读的书](https://www.tianfateng.cn/)
-
 * [商务英语写作王](https://weread.qq.com/web/reader/6ef32270715af0f66ef40f7kc81322c012c81e728d9d180)
 * [英语写作我不怕：与美国学生同步高效学写作](https://weread.qq.com/web/reader/a4632f7071f5e26ca46b99d)
 * [抄写英语的奇迹](https://weread.qq.com/web/reader/df232c10813aba06dg013880kc81322c012c81e728d9d180)
@@ -169,70 +165,74 @@
 * [考研英语高分写作（2026）](https://weread.qq.com/web/reader/1e432000813ab9e48g0168dakc81322c012c81e728d9d180)
 * [大学英语四六级写作特训](https://weread.qq.com/web/reader/667321e0715bb738667e8bckc81322c012c81e728d9d180)
 
-* 词汇
-  * [【英语单词词汇笔记本】把英语常用常考的单词分100个类别：主要针对阅读、翻译、作文、词汇量](https://blog.csdn.net/liu17234050/article/details/110206732)
-  * 单词词汇 
-    * [把你的词汇用起来](https://weread.qq.com/web/reader/8b832d605e1df98b8be6842)
-    * [当代英语核心词汇：初级3000词（当代英语核心词汇）](https://weread.qq.com/web/reader/fb232de0813ab69c1g010aa6)
-    * [当代英语核心词汇：中级4000词（当代英语核心词汇](https://weread.qq.com/web/reader/d4f32f30813ab69f4g016388)
-    * [当代英语核心词汇：中高级4000词（当代英语核心词汇](https://weread.qq.com/web/reader/3b1320c0813ab69c2g010b92)
-    * [当代英语核心词汇：高级6000词（当代英语核心词汇](https://weread.qq.com/web/reader/00732f70813ab69c1g019314)
-    * [考博英语词汇10000例精解](https://weread.qq.com/web/reader/38c3226071916d9e38ca279kc81322c012c81e728d9d180)
-    * [情景分类记忆18000英语单词](https://weread.qq.com/web/reader/287327f071c95ddb287d84bkc81322c012c81e728d9d180)
-    * [100个句子记完2000个中考单词+300个句子攻克中考英语语法](https://weread.qq.com/web/reader/84532fe0813ab8fa3g011125kc81322c012c81e728d9d180) 
-    * [100个句子记完3500个高考单词 同步学练测](https://weread.qq.com/web/reader/92432c10813ab89f8g01222akc81322c012c81e728d9d180)
-    * [100个句子记完7000个托福单词](https://weread.qq.com/web/reader/9da32560715aae439daedd7kc81322c012c81e728d9d180)
-  * [英语词汇速记大全--新东方](https://weread.qq.com/web/reader/55232430715bb6ec5529f2d)
-  * [英语单词前缀详解](https://weread.qq.com/web/reader/ce232210715ea90ace20348)
-  * [英语单词词根详解](https://weread.qq.com/web/reader/8b932e407159fa658b9a668kc81322c012c81e728d9d180)
-
-  * 形近词
-    * [英语六级考试100个形近词](http://yingyu.xdf.cn/201912/11002738.html)
-
-  * 同义词/反义词
-    * [初中英语最常考的200组同义词/词组辨析](http://yingyu.xdf.cn/201909/10981829.html)
-    * [初中英语重点同义词、反义词全汇总！](http://yingyu.xdf.cn/201909/10982627_3.html)
-    * [英语同义词的奥秘](https://weread.qq.com/web/reader/42432d605c62a2424f408c5kc4c329b011c4ca4238a0201)
-    * [英语王牌同义词](https://weread.qq.com/web/reader/64e323105d1e2564e95a610)
-
-  * 介词
-    * [实用英语蓝宝书：介词用法大全](https://weread.qq.com/web/reader/c9b32050813ab9b3ag01052f) 
-
-
-* 英语词组
-  * [英语词组全书（全集）](https://weread.qq.com/web/reader/72532490715aae157252b1fkc81322c012c81e728d9d180) 
-  * [初中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/38732d60721821e73874132)
-  * [高中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/0eb325b0721821e50eb0ead)
-
-
-
+# 学习英文写作分成六步，可以同时进行，也可以先后进行，这取决
+* 第一 写作基础
+  * 词汇
+    * [【英语单词词汇笔记本】把英语常用常考的单词分100个类别：主要针对阅读、翻译、作文、词汇量](https://blog.csdn.net/liu17234050/article/details/110206732)
+    * 单词词汇 
+      * [把你的词汇用起来](https://weread.qq.com/web/reader/8b832d605e1df98b8be6842)
+      * [当代英语核心词汇：初级3000词（当代英语核心词汇）](https://weread.qq.com/web/reader/fb232de0813ab69c1g010aa6)
+      * [当代英语核心词汇：中级4000词（当代英语核心词汇](https://weread.qq.com/web/reader/d4f32f30813ab69f4g016388)
+      * [当代英语核心词汇：中高级4000词（当代英语核心词汇](https://weread.qq.com/web/reader/3b1320c0813ab69c2g010b92)
+      * [当代英语核心词汇：高级6000词（当代英语核心词汇](https://weread.qq.com/web/reader/00732f70813ab69c1g019314)
+      * [考博英语词汇10000例精解](https://weread.qq.com/web/reader/38c3226071916d9e38ca279kc81322c012c81e728d9d180)
+      * [情景分类记忆18000英语单词](https://weread.qq.com/web/reader/287327f071c95ddb287d84bkc81322c012c81e728d9d180)
+      * [100个句子记完2000个中考单词+300个句子攻克中考英语语法](https://weread.qq.com/web/reader/84532fe0813ab8fa3g011125kc81322c012c81e728d9d180) 
+      * [100个句子记完3500个高考单词 同步学练测](https://weread.qq.com/web/reader/92432c10813ab89f8g01222akc81322c012c81e728d9d180)
+      * [100个句子记完7000个托福单词](https://weread.qq.com/web/reader/9da32560715aae439daedd7kc81322c012c81e728d9d180)
+    * [英语词汇速记大全--新东方](https://weread.qq.com/web/reader/55232430715bb6ec5529f2d)
+    * [英语单词前缀详解](https://weread.qq.com/web/reader/ce232210715ea90ace20348)
+    * [英语单词词根详解](https://weread.qq.com/web/reader/8b932e407159fa658b9a668kc81322c012c81e728d9d180)
   
-* 英语句型
-  * [真希望老师这样教英语句型](https://weread.qq.com/web/reader/c7432b6071593456c740800) 
-  * [老外每天都在用到的286个英语关键句型（第2版）](https://weread.qq.com/web/reader/e4532cb05e19e8e4524a00a)
-  * [六级必用500句](https://weread.qq.com/web/reader/800323e07158c8e0800fd55ka87322c014a87ff679a21ea)
-  * [中考英语作文万能句，考场100%用的上！（含开头+中间+结尾句）](http://yingyu.xdf.cn/201806/10792720_3.html)
-  * [句子大全](http://www.1juzi.com/new/45638.html)
-  * [英语作文万能句子大全](http://xiaoxue.xdf.cn/201412/10175458.html)
-  * [大学英语六级经典必背500句](https://weread.qq.com/web/reader/800323e07158c8e0800fd55kc81322c012c81e728d9d180)
+    * 形近词
+      * [英语六级考试100个形近词](http://yingyu.xdf.cn/201912/11002738.html)
+    * 同义词/反义词
+      * [初中英语最常考的200组同义词/词组辨析](http://yingyu.xdf.cn/201909/10981829.html)
+      * [初中英语重点同义词、反义词全汇总！](http://yingyu.xdf.cn/201909/10982627_3.html)
+      * [英语同义词的奥秘](https://weread.qq.com/web/reader/42432d605c62a2424f408c5kc4c329b011c4ca4238a0201)
+      * [英语王牌同义词](https://weread.qq.com/web/reader/64e323105d1e2564e95a610)
+    * 介词
+      * [实用英语蓝宝书：介词用法大全](https://weread.qq.com/web/reader/c9b32050813ab9b3ag01052f) 
+  * 英语词组
+    * [英语词组全书（全集）](https://weread.qq.com/web/reader/72532490715aae157252b1fkc81322c012c81e728d9d180) 
+    * [初中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/38732d60721821e73874132)
+    * [高中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/0eb325b0721821e50eb0ead)
+  * 格言
+    * [读格言，练英语](https://weread.qq.com/web/reader/b1e3246071649ae5b1e2395kc4c329b011c4ca4238a0201) 
+  * 英语短语
+    * [初中英语短语整理：93个“be+...”短语分类汇总](http://yingyu.xdf.cn/202004/11053189_2.html) 
+    * [一张表记完初中英语必考338条核心短语](http://yingyu.xdf.cn/202002/11032838.html)
+    * [初中英语九年级全册重点短语和句型总结](http://yingyu.xdf.cn/202003/11039460.html)
+    * [初中英语考试必考：50组重点词语辨析](http://yingyu.xdf.cn/201910/10985549.html)
+    * [初一到初三，489个重点词组，全在这了](http://yingyu.xdf.cn/201905/10910211.html)
+    * [背会这200条必考的初中英语固定搭配](http://yingyu.xdf.cn/201905/10907453_10.html)
+    * [2020中考英语一轮复习必背重点短语/句型大全](http://yingyu.xdf.cn/202002/11032614.html)
+    * [英语短语3000例](https://weread.qq.com/web/reader/69032a5072181e8d6906b0fkc81322c012c81e728d9d180)
+    * [高中英语必修1-选修8常考的526个短语及经典例句汇总](http://yingyu.xdf.cn/202003/11047109.html)
+    * [专四专八考试必备：235个重点短语搭配](http://yingyu.xdf.cn/202003/11044775.html)
+    * [英语常用短语大全集（第2版）](https://weread.qq.com/web/reader/8b1323905e19e68b1c42e6ckc81322c012c81e728d9d180)
+    * [300组常用英文短语轻松学好英语](https://weread.qq.com/web/reader/68732100813ab7b4fg0147bdkc81322c012c81e728d9d180)
+    * [实用英语短语宝典](https://weread.qq.com/web/reader/cbd326405cec61cbd340038kc81322c012c81e728d9d180)
+  * 英语句型
+    * [真希望老师这样教英语句型](https://weread.qq.com/web/reader/c7432b6071593456c740800)
+    * [英语写作——必备的200条句子【写作必备！！！】](https://liuxinlei.blog.csdn.net/article/details/104571498)
+    * [100句常用英语万能句子——【写作必备】](https://liuxinlei.blog.csdn.net/article/details/104575233)
+    * [老外每天都在用到的286个英语关键句型（第2版）](https://weread.qq.com/web/reader/e4532cb05e19e8e4524a00a)
+    * [六级必用500句](https://weread.qq.com/web/reader/800323e07158c8e0800fd55ka87322c014a87ff679a21ea)
+    * [中考英语作文万能句，考场100%用的上！（含开头+中间+结尾句）](http://yingyu.xdf.cn/201806/10792720_3.html)
+    * [句子大全](http://www.1juzi.com/new/45638.html)
+    * [英语作文万能句子大全](http://xiaoxue.xdf.cn/201412/10175458.html)
+    * [大学英语六级经典必背500句](https://weread.qq.com/web/reader/800323e07158c8e0800fd55kc81322c012c81e728d9d180)
+    * [六個階段的練習，寫出漂亮的英文句子](https://barshai.org/thoughts/how-to-practice-writing-english-sentences/)
 
-* 格言
-  * [读格言，练英语](https://weread.qq.com/web/reader/b1e3246071649ae5b1e2395kc4c329b011c4ca4238a0201) 
+* 第二步：英语过渡句的使用
+    * [英语写作——常用的 过度词-连接词](https://liuxinlei.blog.csdn.net/article/details/104575751)
 
-* 英语短语
-  * [初中英语短语整理：93个“be+...”短语分类汇总](http://yingyu.xdf.cn/202004/11053189_2.html) 
-  * [一张表记完初中英语必考338条核心短语](http://yingyu.xdf.cn/202002/11032838.html)
-  * [初中英语九年级全册重点短语和句型总结](http://yingyu.xdf.cn/202003/11039460.html)
-  * [初中英语考试必考：50组重点词语辨析](http://yingyu.xdf.cn/201910/10985549.html)
-  * [初一到初三，489个重点词组，全在这了](http://yingyu.xdf.cn/201905/10910211.html)
-  * [背会这200条必考的初中英语固定搭配](http://yingyu.xdf.cn/201905/10907453_10.html)
-  * [2020中考英语一轮复习必背重点短语/句型大全](http://yingyu.xdf.cn/202002/11032614.html)
-  * [英语短语3000例](https://weread.qq.com/web/reader/69032a5072181e8d6906b0fkc81322c012c81e728d9d180)
-  * [高中英语必修1-选修8常考的526个短语及经典例句汇总](http://yingyu.xdf.cn/202003/11047109.html)
-  * [专四专八考试必备：235个重点短语搭配](http://yingyu.xdf.cn/202003/11044775.html)
-  * [英语常用短语大全集（第2版）](https://weread.qq.com/web/reader/8b1323905e19e68b1c42e6ckc81322c012c81e728d9d180)
-  * [300组常用英文短语轻松学好英语](https://weread.qq.com/web/reader/68732100813ab7b4fg0147bdkc81322c012c81e728d9d180)
-  * [实用英语短语宝典](https://weread.qq.com/web/reader/cbd326405cec61cbd340038kc81322c012c81e728d9d180)
+* 第三步：英语文章的几大分类
+
+* 第四步：几大类文章写作的基本结构
+
+
 
 
 # 分类英语
