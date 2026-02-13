@@ -143,6 +143,7 @@
 
 # 写作
 * [学习英文写作分成六步](https://weread.qq.com/web/reader/a0332470813ab7b22g010326k65132ca01b6512bd43d90e3)
+* [六個階段的練習，寫出漂亮的英文句子](https://barshai.org/thoughts/how-to-practice-writing-english-sentences/)
 * [自学英文寫作​](https://barshai.org/learn/fundamental/writing/)
 * [ 几本对写作有帮助的工具书](https://weread.qq.com/web/reader/86d32010813ab8187g013e18k72b327f023972b32a1f7e2d)
 * [2025 精选：5个超实用英语作文网站推荐](https://www.wukongsch.com/blog/zh/english-composition-website-post-29948/)
@@ -155,7 +156,7 @@
 * [100句常用英语万能句子——【写作必备】](https://liuxinlei.blog.csdn.net/article/details/104575233)
 
 * [很多写作阅读的书](https://www.tianfateng.cn/)
-* [六個階段的練習，寫出漂亮的英文句子](https://barshai.org/thoughts/how-to-practice-writing-english-sentences/)
+
 * [商务英语写作王](https://weread.qq.com/web/reader/6ef32270715af0f66ef40f7kc81322c012c81e728d9d180)
 * [英语写作我不怕：与美国学生同步高效学写作](https://weread.qq.com/web/reader/a4632f7071f5e26ca46b99d)
 * [抄写英语的奇迹](https://weread.qq.com/web/reader/df232c10813aba06dg013880kc81322c012c81e728d9d180)
