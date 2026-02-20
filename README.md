@@ -239,7 +239,7 @@
     * [教你如何写四级高分作文！！！大学英语四级常考各种类型作文模板-范文](https://liuxinlei.blog.csdn.net/article/details/109145631)
     * [英语专业八级写作特训](https://weread.qq.com/web/reader/63e32220715ce91b63e7f32kc81322c012c81e728d9d180)
     * [一学就会的实用英语六级写作模板](https://weread.qq.com/web/reader/b0a3264071649baeb0ad8d2)
-
+    * [英语写作我不怕：与美国学生同步高效学写作](https://weread.qq.com/web/reader/a4632f7071f5e26ca46b99dkc81322c012c81e728d9d180)
 
 
 # 分类英语
