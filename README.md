@@ -247,6 +247,17 @@
     * [用英文讲好中国故事（共5册）](https://weread.qq.com/web/reader/54b32580813abaed6g010d8akc81322c012c81e728d9d180)
     * [中国戏剧故事（英文版）](https://weread.qq.com/web/reader/4a232950716c4e604a2f158kc81322c012c81e728d9d180)
     * [中国神话故事（英文版）](https://weread.qq.com/web/reader/ba732840716c4e54ba7998e)
+  * 机场 邮轮 海关 列车英文   
+    * 飞机 
+      * [機場廣播英文](https://www.youtube.com/watch?v=b4ZlLXkFw6Q&t=194s)
+      * [飞机广播你能听懂多少](https://www.youtube.com/watch?v=jkWBS6xSC0o)
+      * [空服員服務對話](https://www.youtube.com/watch?v=Iee3ghGqMEQ)
+    * 郵輪
+      * [搭郵輪必聽的 53 句廣播英文](https://www.youtube.com/watch?v=5IKPUA2wT2M)
+    * 列車
+      * [列車廣播英文](https://www.youtube.com/watch?v=0-3Hbg7WH48)
+    * 海关
+      * [13个过海关必问英文问答](https://www.youtube.com/watch?v=Xj1SnxKuNFg)
   * 生活英语
     * [北美麦唐娜生存英语](https://weread.qq.com/web/reader/a0332470813ab7b22g010326kc81322c012c81e728d9d180)
     * [生活英语口语100主题](https://weread.qq.com/web/reader/c4432c2071c3a90cc44a922)
