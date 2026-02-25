@@ -144,14 +144,13 @@
 
 # 写作
 * [学习英文写作分成六步](https://weread.qq.com/web/reader/a0332470813ab7b22g010326k65132ca01b6512bd43d90e3)
-
 * [自学英文寫作​](https://barshai.org/learn/fundamental/writing/)
 * [ 几本对写作有帮助的工具书](https://weread.qq.com/web/reader/86d32010813ab8187g013e18k72b327f023972b32a1f7e2d)
 * [2025 精选：5个超实用英语作文网站推荐](https://www.wukongsch.com/blog/zh/english-composition-website-post-29948/)
-
 * [新东方英语写作](http://yingyu.xdf.cn/xz/)
-
-
+* [科技英语写作](https://weread.qq.com/web/reader/6a3326e0813ab7e98g018585)
+* [科技英语论文阅读与写作](https://weread.qq.com/web/reader/3ff32b80813ab8e1dg010040kc81322c012c81e728d9d180)
+* [大学英语实用写作教程（科技类）](https://weread.qq.com/web/reader/a2a3282071f558d8a2ad592kc81322c012c81e728d9d180)
 * [英语——常考固定搭配【一百零八将】](https://liuxinlei.blog.csdn.net/article/details/104578762)
 * [很多写作阅读的书](https://www.tianfateng.cn/)
 * [商务英语写作王](https://weread.qq.com/web/reader/6ef32270715af0f66ef40f7kc81322c012c81e728d9d180)
