@@ -191,10 +191,6 @@
       * [英语王牌同义词](https://weread.qq.com/web/reader/64e323105d1e2564e95a610)
     * 介词
       * [实用英语蓝宝书：介词用法大全](https://weread.qq.com/web/reader/c9b32050813ab9b3ag01052f) 
-  * 英语词组
-    * [英语词组全书（全集）](https://weread.qq.com/web/reader/72532490715aae157252b1fkc81322c012c81e728d9d180) 
-    * [初中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/38732d60721821e73874132)
-    * [高中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/0eb325b0721821e50eb0ead)
   * 格言
     * [读格言，练英语](https://weread.qq.com/web/reader/b1e3246071649ae5b1e2395kc4c329b011c4ca4238a0201) 
   * 英语短语
@@ -205,6 +201,9 @@
     * [初一到初三，489个重点词组，全在这了](http://yingyu.xdf.cn/201905/10910211.html)
     * [背会这200条必考的初中英语固定搭配](http://yingyu.xdf.cn/201905/10907453_10.html)
     * [2020中考英语一轮复习必背重点短语/句型大全](http://yingyu.xdf.cn/202002/11032614.html)
+    * [英语词组全书（全集）](https://weread.qq.com/web/reader/72532490715aae157252b1fkc81322c012c81e728d9d180) 
+    * [初中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/38732d60721821e73874132)
+    * [高中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/0eb325b0721821e50eb0ead)
     * [英语短语3000例](https://weread.qq.com/web/reader/69032a5072181e8d6906b0fkc81322c012c81e728d9d180)
     * [高中英语必修1-选修8常考的526个短语及经典例句汇总](http://yingyu.xdf.cn/202003/11047109.html)
     * [专四专八考试必备：235个重点短语搭配](http://yingyu.xdf.cn/202003/11044775.html)
