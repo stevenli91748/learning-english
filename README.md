@@ -211,10 +211,11 @@
     * [300组常用英文短语轻松学好英语](https://weread.qq.com/web/reader/68732100813ab7b4fg0147bdkc81322c012c81e728d9d180)
     * [实用英语短语宝典](https://weread.qq.com/web/reader/cbd326405cec61cbd340038kc81322c012c81e728d9d180)
   * 英语句型
+    * [老外每天都在用到的286个英语关键句型（第2版）](https://weread.qq.com/web/reader/e4532cb05e19e8e4524a00a)
     * [真希望老师这样教英语句型](https://weread.qq.com/web/reader/c7432b6071593456c740800)
     * [英语写作——必备的200条句子【写作必备！！！】](https://liuxinlei.blog.csdn.net/article/details/104571498)
     * [100句常用英语万能句子——【写作必备】](https://liuxinlei.blog.csdn.net/article/details/104575233)
-    * [老外每天都在用到的286个英语关键句型（第2版）](https://weread.qq.com/web/reader/e4532cb05e19e8e4524a00a)
+    
     * [六级必用500句](https://weread.qq.com/web/reader/800323e07158c8e0800fd55ka87322c014a87ff679a21ea)
     * [中考英语作文万能句，考场100%用的上！（含开头+中间+结尾句）](http://yingyu.xdf.cn/201806/10792720_3.html)
     * [句子大全](http://www.1juzi.com/new/45638.html)
