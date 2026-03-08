@@ -194,6 +194,9 @@
   * 格言
     * [读格言，练英语](https://weread.qq.com/web/reader/b1e3246071649ae5b1e2395kc4c329b011c4ca4238a0201) 
   * 英语短语
+    * [初中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/38732d60721821e73874132)
+    * [高中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/0eb325b0721821e50eb0ead)
+
     * [初中英语短语整理：93个“be+...”短语分类汇总](http://yingyu.xdf.cn/202004/11053189_2.html) 
     * [一张表记完初中英语必考338条核心短语](http://yingyu.xdf.cn/202002/11032838.html)
     * [初中英语九年级全册重点短语和句型总结](http://yingyu.xdf.cn/202003/11039460.html)
@@ -202,14 +205,13 @@
     * [背会这200条必考的初中英语固定搭配](http://yingyu.xdf.cn/201905/10907453_10.html)
     * [2020中考英语一轮复习必背重点短语/句型大全](http://yingyu.xdf.cn/202002/11032614.html)
     * [英语词组全书（全集）](https://weread.qq.com/web/reader/72532490715aae157252b1fkc81322c012c81e728d9d180) 
-    * [初中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/38732d60721821e73874132)
-    * [高中英语单词 词组 句型和惯用法](https://weread.qq.com/web/reader/0eb325b0721821e50eb0ead)
-    * [英语短语3000例](https://weread.qq.com/web/reader/69032a5072181e8d6906b0fkc81322c012c81e728d9d180)
+    
     * [高中英语必修1-选修8常考的526个短语及经典例句汇总](http://yingyu.xdf.cn/202003/11047109.html)
     * [专四专八考试必备：235个重点短语搭配](http://yingyu.xdf.cn/202003/11044775.html)
     * [英语常用短语大全集（第2版）](https://weread.qq.com/web/reader/8b1323905e19e68b1c42e6ckc81322c012c81e728d9d180)
     * [300组常用英文短语轻松学好英语](https://weread.qq.com/web/reader/68732100813ab7b4fg0147bdkc81322c012c81e728d9d180)
     * [实用英语短语宝典](https://weread.qq.com/web/reader/cbd326405cec61cbd340038kc81322c012c81e728d9d180)
+
   * 英语句型
     * [老外每天都在用到的286个英语关键句型（第2版）](https://weread.qq.com/web/reader/e4532cb05e19e8e4524a00a)
     * [真希望老师这样教英语句型](https://weread.qq.com/web/reader/c7432b6071593456c740800)
