@@ -91,6 +91,7 @@
 * [开口说英语（旅游篇）](https://weread.qq.com/web/reader/d9232c30715aadfbd92ec4c)
 
 # 听力
+* [听力特快](https://www.listeningexpress.com/)
 * [ESL PODCAST 1800](https://tv.eslpod.com/p/daily-english-1-100)
 * [English Podcast 365---非常好的情景英文](https://www.youtube.com/@englishpodcast.365)
 * [一起读懂美国新闻](https://www.youtube.com/@English_News)
