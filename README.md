@@ -263,6 +263,7 @@
     * 海关
       * [13个过海关必问英文问答](https://www.youtube.com/watch?v=Xj1SnxKuNFg)
   * 生活英语
+    * [各方面生活英语](https://www.youtube.com/playlist?list=PLEJKF_V6_xth4i_WkHZw-Qe9cR01m8p2-) 
     * [北美麦唐娜生存英语](https://weread.qq.com/web/reader/a0332470813ab7b22g010326kc81322c012c81e728d9d180)
     * [生活英语口语100主题](https://weread.qq.com/web/reader/c4432c2071c3a90cc44a922)
     * [开口说英语（休闲篇）](https://weread.qq.com/web/reader/51332880715aadff513107a)
