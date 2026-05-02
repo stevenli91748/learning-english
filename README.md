@@ -230,6 +230,7 @@
     * [六個階段的練習，寫出漂亮的英文句子](https://barshai.org/thoughts/how-to-practice-writing-english-sentences/)
 
   * 背诵美文
+    * [别再死记硬背了！学会这个逻辑，英文背誦高效10倍！](https://www.youtube.com/watch?v=6-J_agaodTM) 
     * [抄写英语的奇迹](https://weread.qq.com/web/reader/df232c10813aba06dg013880kc81322c012c81e728d9d180)
    
 
