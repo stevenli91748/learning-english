@@ -91,6 +91,7 @@
 * [开口说英语（旅游篇）](https://weread.qq.com/web/reader/d9232c30715aadfbd92ec4c)
 
 # 听力
+* [看得懂英文但聽不懂，一個視頻講透突破英文聽力的方法— 科學理論，當場實驗，帶練！ | 詳解語義模塊 | 20天突破英文聽力 | 速聽聽力課---斯丹福 博士](https://www.youtube.com/watch?v=pWdZOv4K6j4)
 * [听力特快](https://www.listeningexpress.com/)
 * [ESL PODCAST 1800](https://tv.eslpod.com/p/daily-english-1-100)
 * [English Podcast 365---非常好的情景英文](https://www.youtube.com/@englishpodcast.365)
