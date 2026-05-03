@@ -18,6 +18,12 @@
 
 # 学习路径
 * [英语高效学习法：听说读写全攻略---重要](https://weread.qq.com/web/reader/86d32010813ab8187g013e18kc81322c012c81e728d9d180)
+  * [单词：]()
+  * [听: ]()
+    * [用ChatGPT练英语听力，是我见过最强的方法](https://www.youtube.com/watch?v=o488ozboVdA) 
+  * [说:]()
+  * [读:]()
+  * [写:]() 
 * [赖世雄的英语学习法](https://weread.qq.com/web/reader/726324107155aa127268843kc81322c012c81e728d9d180)
 * [我用OpenAI ChatGPT翻译整个网页 翻译质量接近人工翻译 中英文对照翻译显示 ChatGPT沉浸式翻译 让我的英语水平突飞猛进 用ChatGPT看世界各地外文新闻杂志获取第一手的最新可靠资讯](https://www.youtube.com/watch?v=iTgqmhhFyyI)
 * [英语就这样学](https://weread.qq.com/web/reader/b2932e507197bd0eb29f59a)
