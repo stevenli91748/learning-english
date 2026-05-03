@@ -18,6 +18,7 @@
 
 # 学习路径
 * [英语高效学习法：听说读写全攻略---重要](https://weread.qq.com/web/reader/86d32010813ab8187g013e18kc81322c012c81e728d9d180)
+  * [學英文 | 如果我忘記英文，我會這麼從頭學習。斯坦福學長英語秘密大公開](https://www.youtube.com/watch?v=GNTcCnEqdmU)
   * [单词：]()
   * [听: ]()
     * [听的方法：用ChatGPT练英语听力，是我见过最强的方法](https://www.youtube.com/watch?v=o488ozboVdA) 
