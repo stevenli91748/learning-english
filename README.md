@@ -28,7 +28,7 @@
   * [写:]() 
 * [赖世雄的英语学习法](https://weread.qq.com/web/reader/726324107155aa127268843kc81322c012c81e728d9d180)
 * [我用OpenAI ChatGPT翻译整个网页 翻译质量接近人工翻译 中英文对照翻译显示 ChatGPT沉浸式翻译 让我的英语水平突飞猛进 用ChatGPT看世界各地外文新闻杂志获取第一手的最新可靠资讯](https://www.youtube.com/watch?v=iTgqmhhFyyI)
-* [英语就这样学](https://weread.qq.com/web/reader/b2932e507197bd0eb29f59a)
+
 * [youtube 5大学习频道](https://www.youtube.com/watch?v=KRPaYW5KEO8)
   * 发音和听力起飞 
     * [rachel's english---发音和听力起飞](https://www.youtube.com/@rachelsenglish)
