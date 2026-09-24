@@ -2,8 +2,8 @@
 
 [流媒体生存指南：从无需付费到私人流媒体影院（全平台通关｜ Tubi / Pluto TV / Popcornflix / Plex｜无需付费的海外正版影视平台全解析](https://www.youtube.com/watch?v=K0EU8HT10tM)
 
-[5 个 GitHub 上开源的英语学习神器](https://www.youtube.com/watch?v=YRZnUoGrsh0&t=190s)|[手把手教你搭建obsidian英语学习站](https://www.youtube.com/watch?v=iihyAaPzPK0)|
----|---|
+[5 个 GitHub 上开源的英语学习神器](https://www.youtube.com/watch?v=YRZnUoGrsh0&t=190s)|[手把手教你搭建obsidian英语学习站](https://www.youtube.com/watch?v=iihyAaPzPK0)|[每天用 ChatGPT Live 练英语 30 分钟，一个月后的真实变化](https://www.youtube.com/watch?v=MQW9ZXxJFOU)|
+---|---|---|
 
 [英语写作语法和拼写检查神器---Grammarly](https://www.grammarly.com/)|[英语句子用例搜索引擎](https://ludwig.guru/)|[批改网  id： gzpengli psw: gz19731108](https://www.pigai.org/index.php?c=write&f2=login)|
 ---|---|---|
